@@ -1,0 +1,947 @@
+"year","state","state_po","office","candidate","party","candidatevotes","totalvotes","pctfor","lean","enaction"
+1976,"Colorado","CO","US President","Carter, Jimmy","democrat",460801,1081440,0.426099459979287,0.114178317798491,2019
+1976,"Colorado","CO","US President","Ford, Gerald","republican",584278,1081440,0.540277777777778,0.114178317798491,2019
+1976,"Connecticut","CT","US President","Carter, Jimmy","democrat",647895,1386355,0.467337009640388,0.0514774354332044,2008
+1976,"Connecticut","CT","US President","Ford, Gerald","republican",719261,1386355,0.518814445073592,0.0514774354332044,2008
+1976,"Delaware","DE","US President","Carter, Jimmy","democrat",122461,235642,0.519690887023536,-0.0538146849882449,2010
+1976,"Delaware","DE","US President","Ford, Gerald","republican",109780,235642,0.465876202035291,-0.0538146849882449,2010
+1976,"District of Columbia","DC","US President","Carter, Jimmy","democrat",137818,168830,0.816312266777232,-0.651217200734467,2009
+1976,"District of Columbia","DC","US President","Ford, Gerald","republican",27873,168830,0.165095066042765,-0.651217200734467,2009
+1976,"Illinois","IL","US President","Carter, Jimmy","democrat",2271295,4721282,0.481075902689142,0.0196925326637977,2013
+1976,"Illinois","IL","US President","Ford, Gerald","republican",2364269,4721282,0.50076843535294,0.0196925326637977,2013
+1976,"Indiana","IN","US President","Carter, Jimmy","democrat",1014714,2220362,0.457003857929473,0.0762236067812366,1995
+1976,"Indiana","IN","US President","Ford, Gerald","republican",1183958,2220362,0.533227464710709,0.0762236067812366,1995
+1976,"Kentucky","KY","US President","Carter, Jimmy","democrat",615717,1167142,0.527542492687265,-0.0718550099302399,2010
+1976,"Kentucky","KY","US President","Ford, Gerald","republican",531852,1167142,0.455687482757025,-0.0718550099302399,2010
+1976,"Maine","ME","US President","Carter, Jimmy","democrat",232279,482968,0.480940766261947,0.00836701396365802,2004
+1976,"Maine","ME","US President","Ford, Gerald","republican",236320,482968,0.489307780225605,0.00836701396365802,2004
+1976,"Maryland","MD","US President","Carter, Jimmy","democrat",759612,1432273,0.530354199234364,-0.0607083984687277,2010
+1976,"Maryland","MD","US President","Ford, Gerald","republican",672661,1432273,0.469645800765636,-0.0607083984687277,2010
+1976,"Mississippi","MS","US President","Carter, Jimmy","democrat",381329,768390,0.496270123244706,-0.0188485014120434,1997
+1976,"Mississippi","MS","US President","Ford, Gerald","republican",366846,768390,0.477421621832663,-0.0188485014120434,1997
+1976,"Nebraska","NE","US President","Carter, Jimmy","democrat",233293,606749,0.384496719401268,0.207542163233891,1994
+1976,"Nebraska","NE","US President","Ford, Gerald","republican",359219,606749,0.592038882635159,0.207542163233891,1994
+1976,"New Mexico","NM","US President","Carter, Jimmy","democrat",201148,416590,0.482844043303968,0.0246549365083175,2016
+1976,"New Mexico","NM","US President","Ford, Gerald","republican",211419,416590,0.507498979812285,0.0246549365083175,2016
+1976,"North Carolina","NC","US President","Carter, Jimmy","democrat",927365,1677906,0.552691867124857,-0.110497846720853,2016
+1976,"North Carolina","NC","US President","Ford, Gerald","republican",741960,1677906,0.442194020404004,-0.110497846720853,2016
+1976,"Ohio","OH","US President","Carter, Jimmy","democrat",2009959,4110456,0.488986866663942,-0.00227055100456008,1981
+1976,"Ohio","OH","US President","Ford, Gerald","republican",2000626,4110456,0.486716315659382,-0.00227055100456008,1981
+1976,"South Carolina","SC","US President","Carter, Jimmy","democrat",450807,802583,0.561695176698236,-0.130401466265794,1997
+1976,"South Carolina","SC","US President","Ford, Gerald","republican",346149,802583,0.431293710432441,-0.130401466265794,1997
+1976,"Utah","UT","US President","Carter, Jimmy","democrat",182110,541218,0.336481787375882,0.287865518146107,2018
+1976,"Utah","UT","US President","Ford, Gerald","republican",337908,541218,0.624347305521989,0.287865518146107,2018
+1976,"Vermont","VT","US President","Carter, Jimmy","democrat",77798,183902,0.423040532457505,0.122831725592979,2010
+1976,"Vermont","VT","US President","Ford, Gerald","republican",100387,183902,0.545872258050483,0.122831725592979,2010
+1976,"Virginia","VA","US President","Carter, Jimmy","democrat",813896,1697094,0.479582156321335,0.0133510577493056,2004
+1976,"Virginia","VA","US President","Ford, Gerald","republican",836554,1697094,0.492933214070641,0.0133510577493056,2004
+1976,"West Virginia","WV","US President","Carter, Jimmy","democrat",435864,750590,0.580695186453323,-0.161390372906647,2013
+1976,"West Virginia","WV","US President","Ford, Gerald","republican",314726,750590,0.419304813546677,-0.161390372906647,2013
+1980,"Colorado","CO","US President","Carter, Jimmy","democrat",368009,1184450,0.31070032504538,0.239989024441724,2019
+1980,"Colorado","CO","US President","Reagan, Ronald","republican",652264,1184450,0.550689349487104,0.239989024441724,2019
+1980,"Connecticut","CT","US President","Carter, Jimmy","democrat",541732,1406285,0.385222056695478,0.0963375133774448,2008
+1980,"Connecticut","CT","US President","Reagan, Ronald","republican",677210,1406285,0.481559570072923,0.0963375133774448,2008
+1980,"Delaware","DE","US President","Carter, Jimmy","democrat",105754,235668,0.44874144983621,0.0233294295364666,2010
+1980,"Delaware","DE","US President","Reagan, Ronald","republican",111252,235668,0.472070879372677,0.0233294295364666,2010
+1980,"District of Columbia","DC","US President","Carter, Jimmy","democrat",130231,173889,0.748931789819943,-0.61486350487955,2009
+1980,"District of Columbia","DC","US President","Reagan, Ronald","republican",23313,173889,0.134068284940393,-0.61486350487955,2009
+1980,"Illinois","IL","US President","Carter, Jimmy","democrat",1981413,4749721,0.417164081848176,0.0792964470965768,2013
+1980,"Illinois","IL","US President","Reagan, Ronald","republican",2358049,4749721,0.496460528944753,0.0792964470965768,2013
+1980,"Indiana","IN","US President","Carter, Jimmy","democrat",844197,2242033,0.376531924373995,0.183520492338873,1995
+1980,"Indiana","IN","US President","Reagan, Ronald","republican",1255656,2242033,0.560052416712867,0.183520492338873,1995
+1980,"Kentucky","KY","US President","Carter, Jimmy","democrat",617417,1295627,0.476539158260827,0.0137825161099607,2010
+1980,"Kentucky","KY","US President","Reagan, Ronald","republican",635274,1295627,0.490321674370787,0.0137825161099607,2010
+1980,"Maine","ME","US President","Carter, Jimmy","democrat",220974,523011,0.422503541990513,0.0335518755819667,2004
+1980,"Maine","ME","US President","Reagan, Ronald","republican",238522,523011,0.456055417572479,0.0335518755819667,2004
+1980,"Maryland","MD","US President","Carter, Jimmy","democrat",726161,1540496,0.471381295374996,-0.0295716444573696,2010
+1980,"Maryland","MD","US President","Reagan, Ronald","republican",680606,1540496,0.441809650917627,-0.0295716444573696,2010
+1980,"Mississippi","MS","US President","Carter, Jimmy","democrat",429281,891750,0.481391645640594,0.0132413793103448,1997
+1980,"Mississippi","MS","US President","Reagan, Ronald","republican",441089,891750,0.494633024950939,0.0132413793103448,1997
+1980,"Nebraska","NE","US President","Carter, Jimmy","democrat",166424,639533,0.260227384669751,0.395272800621704,1994
+1980,"Nebraska","NE","US President","Reagan, Ronald","republican",419214,639533,0.655500185291455,0.395272800621704,1994
+1980,"New Mexico","NM","US President","Carter, Jimmy","democrat",167826,456237,0.367848289375916,0.181819975144497,2016
+1980,"New Mexico","NM","US President","Reagan, Ronald","republican",250779,456237,0.549668264520414,0.181819975144497,2016
+1980,"North Carolina","NC","US President","Carter, Jimmy","democrat",875635,1855833,0.471828553539031,0.0212211982435919,2016
+1980,"North Carolina","NC","US President","Reagan, Ronald","republican",915018,1855833,0.493049751782623,0.0212211982435919,2016
+1980,"Ohio","OH","US President","Carter, Jimmy","democrat",1752414,4283603,0.409098135378092,0.10601612707807,1981
+1980,"Ohio","OH","US President","Reagan, Ronald","republican",2206545,4283603,0.515114262456161,0.10601612707807,1981
+1980,"South Carolina","SC","US President","Carter, Jimmy","democrat",428220,888258,0.482089663138413,0.0124479599395671,1997
+1980,"South Carolina","SC","US President","Reagan, Ronald","republican",439277,888258,0.49453762307798,0.0124479599395671,1997
+1980,"Utah","UT","US President","Carter, Jimmy","democrat",124266,604152,0.20568664839312,0.522088812087024,2018
+1980,"Utah","UT","US President","Reagan, Ronald","republican",439687,604152,0.727775460480144,0.522088812087024,2018
+1980,"Vermont","VT","US President","Carter, Jimmy","democrat",81952,213299,0.384211834092049,0.0594283142443237,2010
+1980,"Vermont","VT","US President","Reagan, Ronald","republican",94628,213299,0.443640148336373,0.0594283142443237,2010
+1980,"Virginia","VA","US President","Carter, Jimmy","democrat",752174,1866032,0.40308740686119,0.127240583226869,2004
+1980,"Virginia","VA","US President","Reagan, Ronald","republican",989609,1866032,0.530327990088059,0.127240583226869,2004
+1980,"West Virginia","WV","US President","Carter, Jimmy","democrat",367462,737715,0.498108348074799,-0.0450797394657829,2013
+1980,"West Virginia","WV","US President","Reagan, Ronald","republican",334206,737715,0.453028608609016,-0.0450797394657829,2013
+1984,"Colorado","CO","US President","Mondale, Walter","democrat",454975,1295380,0.351228983001127,0.283192576695641,2019
+1984,"Colorado","CO","US President","Reagan, Ronald","republican",821817,1295380,0.634421559696769,0.283192576695641,2019
+1984,"Connecticut","CT","US President","Mondale, Walter","democrat",569597,1466900,0.388299815938373,0.219019701411139,2008
+1984,"Connecticut","CT","US President","Reagan, Ronald","republican",890877,1466900,0.607319517349513,0.219019701411139,2008
+1984,"Delaware","DE","US President","Mondale, Walter","democrat",101656,254572,0.399321213644863,0.198505727259871,2010
+1984,"Delaware","DE","US President","Reagan, Ronald","republican",152190,254572,0.597826940904734,0.198505727259871,2010
+1984,"District of Columbia","DC","US President","Mondale, Walter","democrat",180408,211288,0.853848775131574,-0.716552762106698,2009
+1984,"District of Columbia","DC","US President","Reagan, Ronald","republican",29009,211288,0.137296013024876,-0.716552762106698,2009
+1984,"Illinois","IL","US President","Mondale, Walter","democrat",2086499,4819088,0.432965532067478,0.128780383342242,2013
+1984,"Illinois","IL","US President","Reagan, Ronald","republican",2707103,4819088,0.561745915409721,0.128780383342242,2013
+1984,"Indiana","IN","US President","Mondale, Walter","democrat",841481,2233069,0.37682713789856,0.239916007969302,1995
+1984,"Indiana","IN","US President","Reagan, Ronald","republican",1377230,2233069,0.616743145867862,0.239916007969302,1995
+1984,"Kentucky","KY","US President","Mondale, Walter","democrat",539539,1369345,0.394012465813948,0.206056910420676,2010
+1984,"Kentucky","KY","US President","Reagan, Ronald","republican",821702,1369345,0.600069376234623,0.206056910420676,2010
+1984,"Maine","ME","US President","Mondale, Walter","democrat",214515,553144,0.387810407416514,0.220530277830004,2004
+1984,"Maine","ME","US President","Reagan, Ronald","republican",336500,553144,0.608340685246518,0.220530277830004,2004
+1984,"Maryland","MD","US President","Mondale, Walter","democrat",787935,1675873,0.470163908601666,0.0548866173033398,2010
+1984,"Maryland","MD","US President","Reagan, Ronald","republican",879918,1675873,0.525050525905006,0.0548866173033398,2010
+1984,"Mississippi","MS","US President","Mondale, Walter","democrat",352192,941104,0.374232815926826,0.244590395960489,1997
+1984,"Mississippi","MS","US President","Reagan, Ronald","republican",582377,941104,0.618823211887315,0.244590395960489,1997
+1984,"Nebraska","NE","US President","Mondale, Walter","democrat",187866,652090,0.288098268643899,0.417408639911669,1994
+1984,"Nebraska","NE","US President","Reagan, Ronald","republican",460054,652090,0.705506908555568,0.417408639911669,1994
+1984,"New Mexico","NM","US President","Mondale, Walter","democrat",201769,514370,0.392264323347007,0.204778661274958,2016
+1984,"New Mexico","NM","US President","Reagan, Ronald","republican",307101,514370,0.597042984621965,0.204778661274958,2016
+1984,"North Carolina","NC","US President","Mondale, Walter","democrat",824287,2175361,0.378919636786722,0.240049352728122,2016
+1984,"North Carolina","NC","US President","Reagan, Ronald","republican",1346481,2175361,0.618968989514844,0.240049352728122,2016
+1984,"Ohio","OH","US President","Mondale, Walter","democrat",1825440,4563235,0.400031994845762,0.18695486864034,1981
+1984,"Ohio","OH","US President","Reagan, Ronald","republican",2678559,4563235,0.586986863486101,0.18695486864034,1981
+1984,"South Carolina","SC","US President","Mondale, Walter","democrat",344459,968529,0.355651715126754,0.279888366791289,1997
+1984,"South Carolina","SC","US President","Reagan, Ronald","republican",615539,968529,0.635540081918043,0.279888366791289,1997
+1984,"Utah","UT","US President","Mondale, Walter","democrat",155369,629656,0.246752194849251,0.498265719694563,2018
+1984,"Utah","UT","US President","Reagan, Ronald","republican",469105,629656,0.745017914543814,0.498265719694563,2018
+1984,"Vermont","VT","US President","Mondale, Walter","democrat",95730,234561,0.408124112704158,0.171106876249675,2010
+1984,"Vermont","VT","US President","Reagan, Ronald","republican",135865,234561,0.579230988953833,0.171106876249675,2010
+1984,"Virginia","VA","US President","Mondale, Walter","democrat",796250,2146635,0.370929384827882,0.251942225855816,2004
+1984,"Virginia","VA","US President","Reagan, Ronald","republican",1337078,2146635,0.622871610683698,0.251942225855816,2004
+1984,"West Virginia","WV","US President","Mondale, Walter","democrat",328125,735742,0.445978345670085,0.105142835396104,2013
+1984,"West Virginia","WV","US President","Reagan, Ronald","republican",405483,735742,0.551121181066189,0.105142835396104,2013
+1988,"Colorado","CO","US President","Dukakis, Michael","democrat",621453,1372394,0.452824043241227,0.0777648401260863,2019
+1988,"Colorado","CO","US President","Bush, George H.W.","republican",728177,1372394,0.530588883367313,0.0777648401260863,2019
+1988,"Connecticut","CT","US President","Dukakis, Michael","democrat",676584,1443394,0.468745193620037,0.0510304185828679,2008
+1988,"Connecticut","CT","US President","Bush, George H.W.","republican",750241,1443394,0.519775612202905,0.0510304185828679,2008
+1988,"Delaware","DE","US President","Dukakis, Michael","democrat",108647,249891,0.434777563017476,0.1240220736241,2010
+1988,"Delaware","DE","US President","Bush, George H.W.","republican",139639,249891,0.558799636641576,0.1240220736241,2010
+1988,"District of Columbia","DC","US President","Dukakis, Michael","democrat",159407,192877,0.826469719043743,-0.683425188073228,2009
+1988,"District of Columbia","DC","US President","Bush, George H.W.","republican",27590,192877,0.143044530970515,-0.683425188073228,2009
+1988,"Illinois","IL","US President","Dukakis, Michael","democrat",2215940,4559120,0.486045552650512,0.0208371352366246,2013
+1988,"Illinois","IL","US President","Bush, George H.W.","republican",2310939,4559120,0.506882687887136,0.0208371352366246,2013
+1988,"Indiana","IN","US President","Dukakis, Michael","democrat",860643,2168621,0.396861876741026,0.201565879884037,1995
+1988,"Indiana","IN","US President","Bush, George H.W.","republican",1297763,2168621,0.598427756625063,0.201565879884037,1995
+1988,"Kentucky","KY","US President","Dukakis, Michael","democrat",580368,1322517,0.438835946910323,0.116378844279506,2010
+1988,"Kentucky","KY","US President","Bush, George H.W.","republican",734281,1322517,0.55521479118983,0.116378844279506,2010
+1988,"Maine","ME","US President","Dukakis, Michael","democrat",243569,555035,0.438835388759267,0.114518904213248,2004
+1988,"Maine","ME","US President","Bush, George H.W.","republican",307131,555035,0.553354292972515,0.114518904213248,2004
+1988,"Maryland","MD","US President","Dukakis, Michael","democrat",826304,1714358,0.481990342740548,0.0290855235604233,2010
+1988,"Maryland","MD","US President","Bush, George H.W.","republican",876167,1714358,0.511075866300971,0.0290855235604233,2010
+1988,"Mississippi","MS","US President","Dukakis, Michael","democrat",363921,931527,0.390671445916221,0.208226922032319,1997
+1988,"Mississippi","MS","US President","Bush, George H.W.","republican",557890,931527,0.59889836794854,0.208226922032319,1997
+1988,"Nebraska","NE","US President","Dukakis, Michael","democrat",259235,661465,0.391910380745769,0.209717823316426,1994
+1988,"Nebraska","NE","US President","Bush, George H.W.","republican",397956,661465,0.601628204062195,0.209717823316426,1994
+1988,"New Mexico","NM","US President","Dukakis, Michael","democrat",244497,521387,0.468935742548241,0.0495677874592194,2016
+1988,"New Mexico","NM","US President","Bush, George H.W.","republican",270341,521387,0.518503530007461,0.0495677874592194,2016
+1988,"North Carolina","NC","US President","Dukakis, Michael","democrat",890167,2134370,0.417063114642728,0.162619883150532,2016
+1988,"North Carolina","NC","US President","Bush, George H.W.","republican",1237258,2134370,0.57968299779326,0.162619883150532,2016
+1988,"Ohio","OH","US President","Dukakis, Michael","democrat",1939629,4393585,0.441468413607567,0.108549168845032,1981
+1988,"Ohio","OH","US President","Bush, George H.W.","republican",2416549,4393585,0.550017582452598,0.108549168845032,1981
+1988,"South Carolina","SC","US President","Dukakis, Michael","democrat",370554,986009,0.375811985488976,0.239236153016859,1997
+1988,"South Carolina","SC","US President","Bush, George H.W.","republican",606443,986009,0.615048138505835,0.239236153016859,1997
+1988,"Utah","UT","US President","Dukakis, Michael","democrat",207343,647008,0.320464352836441,0.34172529551412,2018
+1988,"Utah","UT","US President","Bush, George H.W.","republican",428442,647008,0.662189648350561,0.34172529551412,2018
+1988,"Vermont","VT","US President","Dukakis, Michael","democrat",115775,243328,0.475798099684377,0.0351624145186744,2010
+1988,"Vermont","VT","US President","Bush, George H.W.","republican",124331,243328,0.510960514203051,0.0351624145186744,2010
+1988,"Virginia","VA","US President","Dukakis, Michael","democrat",859799,2191609,0.392314048719457,0.2050379424432,2004
+1988,"Virginia","VA","US President","Bush, George H.W.","republican",1309162,2191609,0.597351991162657,0.2050379424432,2004
+1988,"West Virginia","WV","US President","Dukakis, Michael","democrat",341016,653311,0.521981108537894,-0.0473755990638456,2013
+1988,"West Virginia","WV","US President","Bush, George H.W.","republican",310065,653311,0.474605509474048,-0.0473755990638456,2013
+1992,"Colorado","CO","US President","Clinton, Bill","democrat",629681,1569180,0.401280286519074,-0.0425897602569495,2019
+1992,"Colorado","CO","US President","Bush, George H.W.","republican",562850,1569180,0.358690526262124,-0.0425897602569495,2019
+1992,"Connecticut","CT","US President","Clinton, Bill","democrat",682318,1616156,0.42218572959541,-0.0643533173777779,2008
+1992,"Connecticut","CT","US President","Bush, George H.W.","republican",578313,1616156,0.357832412217632,-0.0643533173777779,2008
+1992,"Delaware","DE","US President","Clinton, Bill","democrat",126054,289620,0.435239279055314,-0.0819729300462675,2010
+1992,"Delaware","DE","US President","Bush, George H.W.","republican",102313,289620,0.353266349009046,-0.0819729300462675,2010
+1992,"District of Columbia","DC","US President","Clinton, Bill","democrat",192619,227572,0.84640904856485,-0.755457613414656,2009
+1992,"District of Columbia","DC","US President","Bush, George H.W.","republican",20698,227572,0.0909514351501942,-0.755457613414656,2009
+1992,"Illinois","IL","US President","Clinton, Bill","democrat",2453350,5050157,0.485796778199173,-0.142422106877073,2013
+1992,"Illinois","IL","US President","Bush, George H.W.","republican",1734096,5050157,0.343374671322099,-0.142422106877073,2013
+1992,"Indiana","IN","US President","Clinton, Bill","democrat",848420,2305871,0.36793905643464,0.061128744843055,1995
+1992,"Indiana","IN","US President","Bush, George H.W.","republican",989375,2305871,0.429067801277695,0.061128744843055,1995
+1992,"Kentucky","KY","US President","Clinton, Bill","democrat",665104,1492900,0.445511420724764,-0.0321026190635676,2010
+1992,"Kentucky","KY","US President","Bush, George H.W.","republican",617178,1492900,0.413408801661196,-0.0321026190635676,2010
+1992,"Maine","ME","US President","Clinton, Bill","democrat",263420,679499,0.3876679730213,-0.0837617126736022,2004
+1992,"Maine","ME","US President","Bush, George H.W.","republican",206504,679499,0.303906260347697,-0.0837617126736022,2004
+1992,"Maryland","MD","US President","Clinton, Bill","democrat",988571,1984580,0.498126051859839,-0.141832024912072,2010
+1992,"Maryland","MD","US President","Bush, George H.W.","republican",707094,1984580,0.356294026947767,-0.141832024912072,2010
+1992,"Mississippi","MS","US President","Clinton, Bill","democrat",400258,981793,0.407680641438674,0.0891583052639406,1997
+1992,"Mississippi","MS","US President","Bush, George H.W.","republican",487793,981793,0.496838946702615,0.0891583052639406,1997
+1992,"Nebraska","NE","US President","Clinton, Bill","democrat",216864,737546,0.294034541574356,0.17194046201864,1994
+1992,"Nebraska","NE","US President","Bush, George H.W.","republican",343678,737546,0.465975003592996,0.17194046201864,1994
+1992,"New Mexico","NM","US President","Clinton, Bill","democrat",261617,569986,0.458988466383385,-0.085603856936837,2016
+1992,"New Mexico","NM","US President","Bush, George H.W.","republican",212824,569986,0.373384609446548,-0.085603856936837,2016
+1992,"North Carolina","NC","US President","Clinton, Bill","democrat",1114042,2611850,0.426533683021613,0.00789440434940752,2016
+1992,"North Carolina","NC","US President","Bush, George H.W.","republican",1134661,2611850,0.434428087371021,0.00789440434940752,2016
+1992,"Ohio","OH","US President","Clinton, Bill","democrat",1984942,4939967,0.401812805632102,-0.0183466812632554,1981
+1992,"Ohio","OH","US President","Bush, George H.W.","republican",1894310,4939967,0.383466124368847,-0.0183466812632554,1981
+1992,"South Carolina","SC","US President","Clinton, Bill","democrat",525514,1228912,0.427625411746325,0.0423081555066596,1997
+1992,"South Carolina","SC","US President","Bush, George H.W.","republican",577507,1228912,0.469933567252985,0.0423081555066596,1997
+1992,"Utah","UT","US President","Clinton, Bill","democrat",183429,743998,0.246545017594133,0.187101309412122,2018
+1992,"Utah","UT","US President","Bush, George H.W.","republican",322632,743998,0.433646327006255,0.187101309412122,2018
+1992,"Vermont","VT","US President","Clinton, Bill","democrat",133592,289701,0.461137517647506,-0.156954929392719,2010
+1992,"Vermont","VT","US President","Bush, George H.W.","republican",88122,289701,0.304182588254787,-0.156954929392719,2010
+1992,"Virginia","VA","US President","Clinton, Bill","democrat",1038650,2559129,0.405860744026581,0.0437129195128499,2004
+1992,"Virginia","VA","US President","Bush, George H.W.","republican",1150517,2559129,0.449573663539431,0.0437129195128499,2004
+1992,"West Virginia","WV","US President","Clinton, Bill","democrat",331001,683677,0.484148216189809,-0.13021792454624,2013
+1992,"West Virginia","WV","US President","Bush, George H.W.","republican",241974,683677,0.353930291643569,-0.13021792454624,2013
+1996,"Colorado","CO","US President","Clinton, Bill","democrat",671152,1510702,0.444264984093488,0.0136995913158254,2019
+1996,"Colorado","CO","US President","Dole, Robert","republican",691848,1510702,0.457964575409313,0.0136995913158254,2019
+1996,"Connecticut","CT","US President","Clinton, Bill","democrat",735740,1392614,0.528315814719657,-0.181407769848644,2008
+1996,"Connecticut","CT","US President","Dole, Robert","republican",483109,1392614,0.346908044871012,-0.181407769848644,2008
+1996,"Delaware","DE","US President","Clinton, Bill","democrat",140355,270810,0.518278497839814,-0.15247959824231,2010
+1996,"Delaware","DE","US President","Dole, Robert","republican",99062,270810,0.365798899597504,-0.15247959824231,2010
+1996,"District of Columbia","DC","US President","Clinton, Bill","democrat",158220,185726,0.851900110916081,-0.758542153494933,2009
+1996,"District of Columbia","DC","US President","Dole, Robert","republican",17339,185726,0.0933579574211473,-0.758542153494933,2009
+1996,"Illinois","IL","US President","Clinton, Bill","democrat",2341744,4311391,0.543152778302873,-0.175053248475956,2013
+1996,"Illinois","IL","US President","Dole, Robert","republican",1587021,4311391,0.368099529826917,-0.175053248475956,2013
+1996,"Indiana","IN","US President","Clinton, Bill","democrat",887424,2135431,0.415571376457493,0.0558524251076247,1995
+1996,"Indiana","IN","US President","Dole, Robert","republican",1006693,2135431,0.471423801565117,0.0558524251076247,1995
+1996,"Kentucky","KY","US President","Clinton, Bill","democrat",636614,1388708,0.458421784853259,-0.0095995702480291,2010
+1996,"Kentucky","KY","US President","Dole, Robert","republican",623283,1388708,0.44882221460523,-0.0095995702480291,2010
+1996,"Maine","ME","US President","Clinton, Bill","democrat",312788,605897,0.516239558868917,-0.208632820429875,2004
+1996,"Maine","ME","US President","Dole, Robert","republican",186378,605897,0.307606738439042,-0.208632820429875,2004
+1996,"Maryland","MD","US President","Clinton, Bill","democrat",966207,1780870,0.542547743518617,-0.159852768590633,2010
+1996,"Maryland","MD","US President","Dole, Robert","republican",681530,1780870,0.382694974927985,-0.159852768590633,2010
+1996,"Mississippi","MS","US President","Clinton, Bill","democrat",394022,893857,0.440811002207288,0.051256520897638,1997
+1996,"Mississippi","MS","US President","Dole, Robert","republican",439838,893857,0.492067523104926,0.051256520897638,1997
+1996,"Nebraska","NE","US President","Clinton, Bill","democrat",236761,677415,0.349506580161349,0.187043392898002,1994
+1996,"Nebraska","NE","US President","Dole, Robert","republican",363467,677415,0.536549973059351,0.187043392898002,1994
+1996,"New Mexico","NM","US President","Clinton, Bill","democrat",273495,556074,0.491832022356737,-0.0732708236673536,2016
+1996,"New Mexico","NM","US President","Dole, Robert","republican",232751,556074,0.418561198689383,-0.0732708236673536,2016
+1996,"North Carolina","NC","US President","Clinton, Bill","democrat",1107849,2515807,0.440355321374016,0.0469388152588811,2016
+1996,"North Carolina","NC","US President","Dole, Robert","republican",1225938,2515807,0.487294136632898,0.0469388152588811,2016
+1996,"Ohio","OH","US President","Clinton, Bill","democrat",2148222,4534434,0.473757474472007,-0.0635887522014876,1981
+1996,"Ohio","OH","US President","Dole, Robert","republican",1859883,4534434,0.410168722270519,-0.0635887522014876,1981
+1996,"South Carolina","SC","US President","Clinton, Bill","democrat",506152,1150182,0.440062529234504,0.0584142335734693,1997
+1996,"South Carolina","SC","US President","Dole, Robert","republican",573339,1150182,0.498476762807973,0.0584142335734693,1997
+1996,"Utah","UT","US President","Clinton, Bill","democrat",221633,665629,0.332967764325172,0.210745024630838,2018
+1996,"Utah","UT","US President","Dole, Robert","republican",361911,665629,0.54371278895601,0.210745024630838,2018
+1996,"Vermont","VT","US President","Clinton, Bill","democrat",137894,258449,0.533544335632949,-0.222643538957396,2010
+1996,"Vermont","VT","US President","Dole, Robert","republican",80352,258449,0.310900796675553,-0.222643538957396,2010
+1996,"Virginia","VA","US President","Clinton, Bill","democrat",1091060,2416642,0.451477711634574,0.019568475595475,2004
+1996,"Virginia","VA","US President","Dole, Robert","republican",1138350,2416642,0.471046187230049,0.019568475595475,2004
+1996,"West Virginia","WV","US President","Clinton, Bill","democrat",327812,636459,0.515055958042859,-0.147481613112549,2013
+1996,"West Virginia","WV","US President","Dole, Robert","republican",233946,636459,0.36757434493031,-0.147481613112549,2013
+2000,"Colorado","CO","US President","Gore, Al","democrat",738227,1741368,0.423935090113061,0.0835670576236615,2019
+2000,"Colorado","CO","US President","Bush, George W.","republican",883748,1741368,0.507502147736722,0.0835670576236615,2019
+2000,"Connecticut","CT","US President","Gore, Al","democrat",816015,1459525,0.559096281324403,-0.17466024905363,2008
+2000,"Connecticut","CT","US President","Bush, George W.","republican",561094,1459525,0.384436032270773,-0.17466024905363,2008
+2000,"Delaware","DE","US President","Gore, Al","democrat",180068,327529,0.549777271630909,-0.130614388344238,2010
+2000,"Delaware","DE","US President","Bush, George W.","republican",137288,327529,0.419162883286671,-0.130614388344238,2010
+2000,"District of Columbia","DC","US President","Gore, Al","democrat",171923,201894,0.851550813793377,-0.762033542353909,2009
+2000,"District of Columbia","DC","US President","Bush, George W.","republican",18073,201894,0.0895172714394682,-0.762033542353909,2009
+2000,"Illinois","IL","US President","Gore, Al","democrat",2589026,4742108,0.545965212095549,-0.120116412363447,2013
+2000,"Illinois","IL","US President","Bush, George W.","republican",2019421,4742108,0.425848799732102,-0.120116412363447,2013
+2000,"Indiana","IN","US President","Gore, Al","democrat",901980,2199302,0.41012102930839,0.156347786706873,1995
+2000,"Indiana","IN","US President","Bush, George W.","republican",1245836,2199302,0.566468816015263,0.156347786706873,1995
+2000,"Kentucky","KY","US President","Gore, Al","democrat",638923,1544106,0.413781825859106,0.151283007772782,2010
+2000,"Kentucky","KY","US President","Bush, George W.","republican",872520,1544106,0.565064833631888,0.151283007772782,2010
+2000,"Maine","ME","US President","Gore, Al","democrat",319951,651817,0.49086016473949,-0.0511416547896112,2004
+2000,"Maine","ME","US President","Bush, George W.","republican",286616,651817,0.439718509949879,-0.0511416547896112,2004
+2000,"Maryland","MD","US President","Gore, Al","democrat",1144008,2025212,0.564883083845049,-0.163035277294426,2010
+2000,"Maryland","MD","US President","Bush, George W.","republican",813827,2025212,0.401847806550623,-0.163035277294426,2010
+2000,"Mississippi","MS","US President","Gore, Al","democrat",404614,994184,0.406981001504752,0.169214149493454,1997
+2000,"Mississippi","MS","US President","Bush, George W.","republican",572844,994184,0.576195150998206,0.169214149493454,1997
+2000,"Nebraska","NE","US President","Gore, Al","democrat",231780,697019,0.332530390132837,0.289923230213237,1994
+2000,"Nebraska","NE","US President","Bush, George W.","republican",433862,697019,0.622453620346074,0.289923230213237,1994
+2000,"New Mexico","NM","US President","Gore, Al","democrat",286783,598605,0.479085540548442,-0.000611421555115621,2016
+2000,"New Mexico","NM","US President","Bush, George W.","republican",286417,598605,0.478474118993326,-0.000611421555115621,2016
+2000,"North Carolina","NC","US President","Gore, Al","democrat",1257692,2914990,0.431456711686833,0.128120851186453,2016
+2000,"North Carolina","NC","US President","Bush, George W.","republican",1631163,2914990,0.559577562873286,0.128120851186453,2016
+2000,"Ohio","OH","US President","Gore, Al","democrat",2183628,4701998,0.464404280903565,0.0354604574480891,1981
+2000,"Ohio","OH","US President","Bush, George W.","republican",2350363,4701998,0.499864738351654,0.0354604574480891,1981
+2000,"South Carolina","SC","US President","Gore, Al","democrat",566037,1383902,0.409015233737649,0.159588612488457,1997
+2000,"South Carolina","SC","US President","Bush, George W.","republican",786892,1383902,0.568603846226106,0.159588612488457,1997
+2000,"Utah","UT","US President","Gore, Al","democrat",203053,770754,0.263447221811369,0.404854207697917,2018
+2000,"Utah","UT","US President","Bush, George W.","republican",515096,770754,0.668301429509286,0.404854207697917,2018
+2000,"Vermont","VT","US President","Gore, Al","democrat",149022,294308,0.506347092161953,-0.0993754841866344,2010
+2000,"Vermont","VT","US President","Bush, George W.","republican",119775,294308,0.406971607975318,-0.0993754841866344,2010
+2000,"Virginia","VA","US President","Gore, Al","democrat",1217290,2739447,0.444356105447559,0.0803811864219312,2004
+2000,"Virginia","VA","US President","Bush, George W.","republican",1437490,2739447,0.52473729186949,0.0803811864219312,2004
+2000,"West Virginia","WV","US President","Gore, Al","democrat",295497,648124,0.455926643666953,0.0632255556035573,2013
+2000,"West Virginia","WV","US President","Bush, George W.","republican",336475,648124,0.51915219927051,0.0632255556035573,2013
+2004,"Colorado","CO","US President","Kerry, John","democrat",1001732,2129630,0.470378422542883,0.046732531003038,2019
+2004,"Colorado","CO","US President","Bush, George W.","republican",1101255,2129630,0.517110953545921,0.046732531003038,2019
+2004,"Connecticut","CT","US President","Kerry, John","democrat",857488,1578769,0.543137089719902,-0.103664310611622,2008
+2004,"Connecticut","CT","US President","Bush, George W.","republican",693826,1578769,0.43947277910828,-0.103664310611622,2008
+2004,"Delaware","DE","US President","Kerry, John","democrat",200152,375190,0.533468376022815,-0.0759401903035796,2010
+2004,"Delaware","DE","US President","Bush, George W.","republican",171660,375190,0.457528185719236,-0.0759401903035796,2010
+2004,"District of Columbia","DC","US President","Kerry, John","democrat",202970,227586,0.891838689550324,-0.798441028885784,2009
+2004,"District of Columbia","DC","US President","Bush, George W.","republican",21256,227586,0.09339766066454,-0.798441028885784,2009
+2004,"Illinois","IL","US President","Kerry, John","democrat",2891550,5274322,0.548231602090278,-0.103445333826793,2013
+2004,"Illinois","IL","US President","Bush, George W.","republican",2345946,5274322,0.444786268263485,-0.103445333826793,2013
+2004,"Indiana","IN","US President","Kerry, John","democrat",969011,2468002,0.392629746653366,0.206817903713206,1995
+2004,"Indiana","IN","US President","Bush, George W.","republican",1479438,2468002,0.599447650366572,0.206817903713206,1995
+2004,"Kentucky","KY","US President","Kerry, John","democrat",712733,1795882,0.396870729814097,0.198624408507909,2010
+2004,"Kentucky","KY","US President","Bush, George W.","republican",1069439,1795882,0.595495138322006,0.198624408507909,2010
+2004,"Maine","ME","US President","Kerry, John","democrat",396842,740752,0.535728556925935,-0.0899639825474652,2004
+2004,"Maine","ME","US President","Bush, George W.","republican",330201,740752,0.445764574378469,-0.0899639825474652,2004
+2004,"Maryland","MD","US President","Kerry, John","democrat",1334493,2384238,0.55971467613552,-0.129932498349578,2010
+2004,"Maryland","MD","US President","Bush, George W.","republican",1024703,2384238,0.429782177785943,-0.129932498349578,2010
+2004,"Mississippi","MS","US President","Kerry, John","democrat",457766,1139824,0.401611125928213,0.188532615561701,1997
+2004,"Mississippi","MS","US President","Bush, George W.","republican",672660,1139824,0.590143741489914,0.188532615561701,1997
+2004,"Nebraska","NE","US President","Kerry, John","democrat",254328,778186,0.326821608201638,0.332164803787269,1994
+2004,"Nebraska","NE","US President","Bush, George W.","republican",512814,778186,0.658986411988908,0.332164803787269,1994
+2004,"New Mexico","NM","US President","Kerry, John","democrat",370942,756304,0.490466796420487,0.007917451183651,2016
+2004,"New Mexico","NM","US President","Bush, George W.","republican",376930,756304,0.498384247604138,0.007917451183651,2016
+2004,"North Carolina","NC","US President","Kerry, John","democrat",1525849,3501007,0.435831462205017,0.124340511172928,2016
+2004,"North Carolina","NC","US President","Bush, George W.","republican",1961166,3501007,0.560171973377945,0.124340511172928,2016
+2004,"Ohio","OH","US President","Kerry, John","democrat",2741165,5627903,0.487066852431536,0.0210733909237597,1981
+2004,"Ohio","OH","US President","Bush, George W.","republican",2859764,5627903,0.508140243355296,0.0210733909237597,1981
+2004,"South Carolina","SC","US President","Kerry, John","democrat",661669,1617700,0.409018359399147,0.170801137417321,1997
+2004,"South Carolina","SC","US President","Bush, George W.","republican",937974,1617700,0.579819496816468,0.170801137417321,1997
+2004,"Utah","UT","US President","Kerry, John","democrat",241199,927844,0.259956415087019,0.45540306344601,2018
+2004,"Utah","UT","US President","Bush, George W.","republican",663742,927844,0.715359478533029,0.45540306344601,2018
+2004,"Vermont","VT","US President","Kerry, John","democrat",184067,312309,0.589374625771271,-0.201361472131767,2010
+2004,"Vermont","VT","US President","Bush, George W.","republican",121180,312309,0.388013153639504,-0.201361472131767,2010
+2004,"Virginia","VA","US President","Kerry, John","democrat",1454742,3195415,0.455259176038167,0.0820603896520484,2004
+2004,"Virginia","VA","US President","Bush, George W.","republican",1716959,3195415,0.537319565690216,0.0820603896520484,2004
+2004,"West Virginia","WV","US President","Kerry, John","democrat",326541,755792,0.432051410970214,0.128655767724453,2013
+2004,"West Virginia","WV","US President","Bush, George W.","republican",423778,755792,0.560707178694667,0.128655767724453,2013
+2008,"Colorado","CO","US President","Obama, Barack H.","democrat",1288576,2401361,0.536602368406916,-0.0895271473135443,2019
+2008,"Colorado","CO","US President","McCain, John","republican",1073589,2401361,0.447075221093372,-0.0895271473135443,2019
+2008,"Connecticut","CT","US President","Obama, Barack H.","democrat",997772,1646792,0.605888296761218,-0.223673663704949,2008
+2008,"Connecticut","CT","US President","McCain, John","republican",629428,1646792,0.382214633056269,-0.223673663704949,2008
+2008,"Delaware","DE","US President","Obama, Barack H.","democrat",255459,412412,0.619426689815039,-0.249956354325286,2010
+2008,"Delaware","DE","US President","McCain, John","republican",152374,412412,0.369470335489753,-0.249956354325286,2010
+2008,"District of Columbia","DC","US President","Obama, Barack H.","democrat",245800,265853,0.924571097561434,-0.859245522901754,2009
+2008,"District of Columbia","DC","US President","McCain, John","republican",17367,265853,0.0653255746596803,-0.859245522901754,2009
+2008,"Illinois","IL","US President","Obama, Barack H.","democrat",3419348,5522371,0.619181145200132,-0.25137191977866,2013
+2008,"Illinois","IL","US President","McCain, John","republican",2031179,5522371,0.367809225421472,-0.25137191977866,2013
+2008,"Indiana","IN","US President","Obama, Barack H.","democrat",1374039,2751054,0.499459116396843,-0.0103200446083574,1995
+2008,"Indiana","IN","US President","McCain, John","republican",1345648,2751054,0.489139071788485,-0.0103200446083574,1995
+2008,"Kentucky","KY","US President","Obama, Barack H.","democrat",751985,1826620,0.411681137839288,0.162309073589471,2010
+2008,"Kentucky","KY","US President","McCain, John","republican",1048462,1826620,0.573990211428759,0.162309073589471,2010
+2008,"Maine","ME","US President","Obama, Barack H.","democrat",421923,731163,0.57705737297976,-0.173217189600677,2004
+2008,"Maine","ME","US President","McCain, John","republican",295273,731163,0.403840183379082,-0.173217189600677,2004
+2008,"Maryland","MD","US President","Obama, Barack H.","democrat",1629467,2631596,0.619193447626459,-0.254448251175332,2010
+2008,"Maryland","MD","US President","McCain, John","republican",959862,2631596,0.364745196451127,-0.254448251175332,2010
+2008,"Mississippi","MS","US President","Obama, Barack H.","democrat",554662,1289865,0.430015544262384,0.13174634554779,1997
+2008,"Mississippi","MS","US President","McCain, John","republican",724597,1289865,0.561761889810174,0.13174634554779,1997
+2008,"Nebraska","NE","US President","Obama, Barack H.","democrat",333319,801281,0.415982657769247,0.149335875928669,1994
+2008,"Nebraska","NE","US President","McCain, John","republican",452979,801281,0.565318533697916,0.149335875928669,1994
+2008,"New Mexico","NM","US President","Obama, Barack H.","democrat",472422,830158,0.569074802627934,-0.151284454284606,2016
+2008,"New Mexico","NM","US President","McCain, John","republican",346832,830158,0.417790348343327,-0.151284454284606,2016
+2008,"North Carolina","NC","US President","Obama, Barack H.","democrat",2142651,4310851,0.497036663990474,-0.00328867780398812,2016
+2008,"North Carolina","NC","US President","McCain, John","republican",2128474,4310851,0.493747986186486,-0.00328867780398812,2016
+2008,"Ohio","OH","US President","Obama, Barack H.","democrat",2940044,5708350,0.515042700605254,-0.0459369169725052,1981
+2008,"Ohio","OH","US President","McCain, John","republican",2677820,5708350,0.469105783632749,-0.0459369169725052,1981
+2008,"South Carolina","SC","US President","Obama, Barack H.","democrat",862449,1920969,0.448965600173662,0.0897708396127163,1997
+2008,"South Carolina","SC","US President","McCain, John","republican",1034896,1920969,0.538736439786379,0.0897708396127163,1997
+2008,"Utah","UT","US President","Obama, Barack H.","democrat",327670,952370,0.344057456660752,0.281781240484266,2018
+2008,"Utah","UT","US President","McCain, John","republican",596030,952370,0.625838697145017,0.281781240484266,2018
+2008,"Vermont","VT","US President","Obama, Barack H.","democrat",219262,325046,0.674556831956092,-0.370064544710595,2010
+2008,"Vermont","VT","US President","McCain, John","republican",98974,325046,0.304492287245498,-0.370064544710595,2010
+2008,"Virginia","VA","US President","Obama, Barack H.","democrat",1959532,3723260,0.526294698731757,-0.0629896918292034,2004
+2008,"Virginia","VA","US President","McCain, John","republican",1725005,3723260,0.463305006902553,-0.0629896918292034,2004
+2008,"West Virginia","WV","US President","Obama, Barack H.","democrat",303857,713451,0.425897503822968,0.13120592724658,2013
+2008,"West Virginia","WV","US President","McCain, John","republican",397466,713451,0.557103431069548,0.13120592724658,2013
+2012,"Colorado","CO","US President","Obama, Barack H.","democrat",1323101,2569516,0.514922265516152,-0.0536513491256719,2019
+2012,"Colorado","CO","US President","Romney, Mitt","republican",1185243,2569516,0.46127091639048,-0.0536513491256719,2019
+2012,"Connecticut","CT","US President","Obama, Barack H.","democrat",905083,1558204,0.580850132588544,-0.173398990119394,2008
+2012,"Connecticut","CT","US President","Romney, Mitt","republican",634892,1558204,0.40745114246915,-0.173398990119394,2008
+2012,"Delaware","DE","US President","Obama, Barack H.","democrat",242584,413890,0.586107419845853,-0.186281379110392,2010
+2012,"Delaware","DE","US President","Romney, Mitt","republican",165484,413890,0.399826040735461,-0.186281379110392,2010
+2012,"District of Columbia","DC","US President","Obama, Barack H.","democrat",267070,293764,0.909131139281873,-0.836348225105867,2009
+2012,"District of Columbia","DC","US President","Romney, Mitt","republican",21381,293764,0.0727829141760052,-0.836348225105867,2009
+2012,"Illinois","IL","US President","Obama, Barack H.","democrat",3019512,5242014,0.576021353624771,-0.168693940916602,2013
+2012,"Illinois","IL","US President","Romney, Mitt","republican",2135216,5242014,0.407327412708169,-0.168693940916602,2013
+2012,"Indiana","IN","US President","Obama, Barack H.","democrat",1152887,2624534,0.439273029040584,0.101982294761661,1995
+2012,"Indiana","IN","US President","Romney, Mitt","republican",1420543,2624534,0.541255323802245,0.101982294761661,1995
+2012,"Kentucky","KY","US President","Obama, Barack H.","democrat",679370,1797212,0.378013278344458,0.226918137648758,2010
+2012,"Kentucky","KY","US President","Romney, Mitt","republican",1087190,1797212,0.604931415993216,0.226918137648758,2010
+2012,"Maine","ME","US President","Obama, Barack H.","democrat",401306,724758,0.553710341934825,-0.150436421536568,2004
+2012,"Maine","ME","US President","Romney, Mitt","republican",292276,724758,0.403273920398257,-0.150436421536568,2004
+2012,"Maryland","MD","US President","Obama, Barack H.","democrat",1677844,2707327,0.619741907793185,-0.260764584403731,2010
+2012,"Maryland","MD","US President","Romney, Mitt","republican",971869,2707327,0.358977323389454,-0.260764584403731,2010
+2012,"Mississippi","MS","US President","Obama, Barack H.","democrat",562949,1285584,0.437893595439893,0.114964871995918,1997
+2012,"Mississippi","MS","US President","Romney, Mitt","republican",710746,1285584,0.552858467435811,0.114964871995918,1997
+2012,"Nebraska","NE","US President","Obama, Barack H.","democrat",302081,794379,0.38027314417929,0.217758777611191,1994
+2012,"Nebraska","NE","US President","Romney, Mitt","republican",475064,794379,0.59803192179048,0.217758777611191,1994
+2012,"New Mexico","NM","US President","Obama, Barack H.","democrat",415335,783758,0.529927605204668,-0.101494338813766,2016
+2012,"New Mexico","NM","US President","Romney, Mitt","republican",335788,783758,0.428433266390901,-0.101494338813766,2016
+2012,"North Carolina","NC","US President","Obama, Barack H.","democrat",2178391,4505372,0.483509685770676,0.0204209552507539,2016
+2012,"North Carolina","NC","US President","Romney, Mitt","republican",2270395,4505372,0.503930641021429,0.0204209552507539,2016
+2012,"Ohio","OH","US President","Obama, Barack H.","democrat",2827621,5580822,0.506667476583199,-0.029783067798973,1981
+2012,"Ohio","OH","US President","Romney, Mitt","republican",2661407,5580822,0.476884408784226,-0.029783067798973,1981
+2012,"South Carolina","SC","US President","Obama, Barack H.","democrat",865941,1964118,0.440880334073615,0.104730978484999,1997
+2012,"South Carolina","SC","US President","Romney, Mitt","republican",1071645,1964118,0.545611312558614,0.104730978484999,1997
+2012,"Utah","UT","US President","Obama, Barack H.","democrat",251813,1017440,0.247496658279604,0.480408672747287,2018
+2012,"Utah","UT","US President","Romney, Mitt","republican",740600,1017440,0.727905331026891,0.480408672747287,2018
+2012,"Vermont","VT","US President","Obama, Barack H.","democrat",199239,299290,0.665705503023823,-0.355979150656554,2010
+2012,"Vermont","VT","US President","Romney, Mitt","republican",92698,299290,0.309726352367269,-0.355979150656554,2010
+2012,"Virginia","VA","US President","Obama, Barack H.","democrat",1971820,3854489,0.511564567962186,-0.0387335389982952,2004
+2012,"Virginia","VA","US President","Romney, Mitt","republican",1822522,3854489,0.472831028963891,-0.0387335389982952,2004
+2012,"West Virginia","WV","US President","Obama, Barack H.","democrat",238269,670438,0.355393041563873,0.267565382630459,2013
+2012,"West Virginia","WV","US President","Romney, Mitt","republican",417655,670438,0.622958424194333,0.267565382630459,2013
+2016,"Colorado","CO","US President","Clinton, Hillary","democrat",1338870,2780220,0.481569803828474,-0.0490558301141636,2019
+2016,"Colorado","CO","US President","Trump, Donald J.","republican",1202484,2780220,0.43251397371431,-0.0490558301141636,2019
+2016,"Connecticut","CT","US President","Clinton, Hillary","democrat",897572,1644920,0.545663010967099,-0.136393867178951,2008
+2016,"Connecticut","CT","US President","Trump, Donald J.","republican",673215,1644920,0.409269143788148,-0.136393867178951,2008
+2016,"Delaware","DE","US President","Clinton, Hillary","democrat",235603,441590,0.533533368056342,-0.114305124663149,2010
+2016,"Delaware","DE","US President","Trump, Donald J.","republican",185127,441590,0.419228243393193,-0.114305124663149,2010
+2016,"District of Columbia","DC","US President","Clinton, Hillary","democrat",282830,312575,0.904838838678717,-0.864135007598176,2009
+2016,"District of Columbia","DC","US President","Trump, Donald J.","republican",12723,312575,0.0407038310805407,-0.864135007598176,2009
+2016,"Illinois","IL","US President","Clinton, Hillary","democrat",3090729,5536424,0.558253666987933,-0.17063613624968,2013
+2016,"Illinois","IL","US President","Trump, Donald J.","republican",2146015,5536424,0.387617530738253,-0.17063613624968,2013
+2016,"Indiana","IN","US President","Clinton, Hillary","democrat",1033126,2734958,0.37774839686752,0.191651937616592,1995
+2016,"Indiana","IN","US President","Trump, Donald J.","republican",1557286,2734958,0.569400334484113,0.191651937616592,1995
+2016,"Kentucky","KY","US President","Clinton, Hillary","democrat",628854,1924149,0.326821883336478,0.298374502182523,2010
+2016,"Kentucky","KY","US President","Trump, Donald J.","republican",1202971,1924149,0.625196385519001,0.298374502182523,2010
+2016,"Maine","ME","US President","Clinton, Hillary","democrat",357735,771892,0.46345214097309,-0.0286853601281009,2004
+2016,"Maine","ME","US President","Trump, Donald J.","republican",335593,771892,0.434766780844989,-0.0286853601281009,2004
+2016,"Maryland","MD","US President","Clinton, Hillary","democrat",1677928,2781446,0.603257442351928,-0.264164395066451,2010
+2016,"Maryland","MD","US President","Trump, Donald J.","republican",943169,2781446,0.339093047285477,-0.264164395066451,2010
+2016,"Mississippi","MS","US President","Clinton, Hillary","democrat",485131,1209357,0.401147882717841,0.178262498170515,1997
+2016,"Mississippi","MS","US President","Trump, Donald J.","republican",700714,1209357,0.579410380888356,0.178262498170515,1997
+2016,"Nebraska","NE","US President","Clinton, Hillary","democrat",284494,844227,0.336987563771355,0.250485947499902,1994
+2016,"Nebraska","NE","US President","Trump, Donald J.","republican",495961,844227,0.587473511271258,0.250485947499902,1994
+2016,"New Mexico","NM","US President","Clinton, Hillary","democrat",385234,798319,0.482556471786341,-0.0821313284539138,2016
+2016,"New Mexico","NM","US President","Trump, Donald J.","republican",319667,798319,0.400425143332427,-0.0821313284539138,2016
+2016,"North Carolina","NC","US President","Clinton, Hillary","democrat",2189316,4741564,0.461728661682095,0.0365522852797094,2016
+2016,"North Carolina","NC","US President","Trump, Donald J.","republican",2362631,4741564,0.498280946961804,0.0365522852797094,2016
+2016,"Ohio","OH","US President","Clinton, Hillary","democrat",2394164,5496487,0.4355807627672,0.0812957439906617,1981
+2016,"Ohio","OH","US President","Trump, Donald J.","republican",2841005,5496487,0.516876506757862,0.0812957439906617,1981
+2016,"South Carolina","SC","US President","Clinton, Hillary","democrat",855373,2103027,0.406734197896651,0.142659128960303,1997
+2016,"South Carolina","SC","US President","Trump, Donald J.","republican",1155389,2103027,0.549393326856954,0.142659128960303,1997
+2016,"Utah","UT","US President","Clinton, Hillary","democrat",310674,1131317,0.27461268592269,0.180795479958314,2018
+2016,"Utah","UT","US President","Trump, Donald J.","republican",515211,1131317,0.455408165881004,0.180795479958314,2018
+2016,"Vermont","VT","US President","Clinton, Hillary","democrat",178573,320467,0.557227421232139,-0.259633597219058,2010
+2016,"Vermont","VT","US President","Trump, Donald J.","republican",95369,320467,0.297593824013081,-0.259633597219058,2010
+2016,"Virginia","VA","US President","Clinton, Hillary","democrat",1981473,3982752,0.497513528334177,-0.0532370581949365,2004
+2016,"Virginia","VA","US President","Trump, Donald J.","republican",1769443,3982752,0.44427647013924,-0.0532370581949365,2004
+2016,"West Virginia","WV","US President","Clinton, Hillary","democrat",188794,713051,0.264769280177715,0.421536467938478,2013
+2016,"West Virginia","WV","US President","Trump, Donald J.","republican",489371,713051,0.686305748116194,0.421536467938478,2013
+1976,"Connecticut","CT","US Senate","Gloria Schaffer","democrat",561018,1361666,0.412008524851175,0.164992736838549,2008
+1976,"Connecticut","CT","US Senate","Lowell P. Weicker, Jr.","republican",785683,1361666,0.577001261689724,0.164992736838549,2008
+1976,"Delaware","DE","US Senate","Thomas C. Maloney","democrat",98042,224795,0.436139593852176,0.121942214017216,2010
+1976,"Delaware","DE","US Senate","William V. Roth, Jr.","republican",125454,224795,0.558081807869392,0.121942214017216,2010
+1976,"Indiana","IN","US Senate","Vance Hartke","democrat",868522,2161187,0.401872674599653,0.188466338174346,1995
+1976,"Indiana","IN","US Senate","Richard G. Lugar","republican",1275833,2161187,0.590339012773999,0.188466338174346,1995
+1976,"Maine","ME","US Senate","Edmund S. Muskie","democrat",292704,486193,0.602032526177876,-0.204065052355752,2004
+1976,"Maine","ME","US Senate","Robert A. G. Monks","republican",193489,486193,0.397967473822124,-0.204065052355752,2004
+1976,"Maryland","MD","US Senate","Paul S. Sarbanes","democrat",772101,1365290,0.565521610793311,-0.177004152963839,2010
+1976,"Maryland","MD","US Senate","J. Glenn Beall, Jr.","republican",530439,1365290,0.388517457829472,-0.177004152963839,2010
+1976,"Mississippi","MS","US Senate","John C. Stennis","democrat",554433,554433,1,-0.471094368879675,1997
+1976,"Nebraska","NE","US Senate","Edward Zorinsky","democrat",313805,593310,0.528905631120325,-0.0581837487991101,1994
+1976,"Nebraska","NE","US Senate","John Y. McCollister","republican",279284,593310,0.470721882321215,-0.0581837487991101,1994
+1976,"New Mexico","NM","US Senate","Joseph M. Montoya","democrat",176382,413056,0.427017159900837,0.141140668577626,2016
+1976,"New Mexico","NM","US Senate","Harrison ""Jack"" Schmitt","republican",234681,413056,0.568157828478463,0.141140668577626,2016
+1976,"Ohio","OH","US Senate","Howard M. Metzenbaum","democrat",1941113,3920613,0.495104464531439,-0.0299287381845645,1981
+1976,"Ohio","OH","US Senate","Robert Taft, Jr.","republican",1823774,3920613,0.465175726346875,-0.0299287381845645,1981
+1976,"Utah","UT","US Senate","Frank E. Moss","democrat",223948,522108,0.428930412864771,0.126933508009837,2018
+1976,"Utah","UT","US Senate","Orrin G. Hatch","republican",290221,522108,0.555863920874608,0.126933508009837,2018
+1976,"Vermont","VT","US Senate","Thomas P. Salmon","democrat",85682,189060,0.453200042314609,0.0465407807045382,2010
+1976,"Vermont","VT","US Senate","Robert T. Stafford","republican",94481,189060,0.499740823019147,0.0465407807045382,2010
+1976,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",566359,566359,1,-0.597014852500317,2013
+1978,"Colorado","CO","US Senate","Floyd K. Haskell","democrat",330148,819256,0.402985147499683,0.183890017283975,2019
+1978,"Colorado","CO","US Senate","William L. Armstrong","republican",480801,819256,0.586875164783657,0.183890017283975,2019
+1978,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",93930,162072,0.579557233822005,-0.169375339355348,2010
+1978,"Delaware","DE","US Senate","James H. Baxter Jr.","republican",66479,162072,0.410181894466657,-0.169375339355348,2010
+1978,"Illinois","IL","US Senate","Alex Smith","democrat",1448187,3184764,0.454723489715407,0.0786632855684126,2013
+1978,"Illinois","IL","US Senate","Charles H. Perey","republican",1698711,3184764,0.53338677528382,0.0786632855684126,2013
+1978,"Kentucky","KY","US Senate","Walter D. Huddleston","democrat",290730,476783,0.609774257890906,-0.241124368947718,2010
+1978,"Kentucky","KY","US Senate","Louie Guenthner Jr. ","republican",175766,476783,0.368649888943188,-0.241124368947718,2010
+1978,"Maine","ME","US Senate","William D. Hathaway","democrat",127327,375114,0.339435478281269,0.22650980768513,2004
+1978,"Maine","ME","US Senate","William S. Cohen","republican",212294,375114,0.5659452859664,0.22650980768513,2004
+1978,"Mississippi","MS","US Senate","Maurice Dantin","democrat",187541,590236,0.317739006092478,0.135134081960436,1997
+1978,"Mississippi","MS","US Senate","Thad Cochran","republican",267302,590236,0.452873088052914,0.135134081960436,1997
+1978,"Nebraska","NE","US Senate","James J. Exon","democrat",334096,493802,0.676578871693513,-0.353157743387026,1994
+1978,"Nebraska","NE","US Senate","Donald Eugene Shasten","republican",159706,493802,0.323421128306487,-0.353157743387026,1994
+1978,"New Mexico","NM","US Senate","Toney Anaya","democrat",160045,343487,0.465941942489818,0.0681161150203646,2016
+1978,"New Mexico","NM","US Senate","Pete V. Domenici","republican",183442,343487,0.534058057510182,0.0681161150203646,2016
+1978,"North Carolina","NC","US Senate","John Randolph Ingram","democrat",516663,1135814,0.45488345803098,0.0902330839380392,2016
+1978,"North Carolina","NC","US Senate","Jesse Helms","republican",619151,1135814,0.54511654196902,0.0902330839380392,2016
+1978,"South Carolina","SC","US Senate","Charles D. Ravenel","democrat",280146,632063,0.443224805122274,0.113550389755452,1997
+1978,"South Carolina","SC","US Senate","Strom Thurmond","republican",351917,632063,0.556775194877726,0.113550389755452,1997
+1978,"Virginia","VA","US Senate","Andrew P. Miller","democrat",608511,1222256,0.497858877354662,0.00386252961736328,2004
+1978,"Virginia","VA","US Senate","John William Warner","republican",613232,1222256,0.501721406972025,0.00386252961736328,2004
+1978,"West Virginia","WV","US Senate","Jennings Randolph","democrat",249034,493351,0.504780572047082,-0.00956114409416414,2013
+1978,"West Virginia","WV","US Senate","Arch A. Moore Jr. ","republican",244317,493351,0.495219427952918,-0.00956114409416414,2013
+1980,"Colorado","CO","US Senate","Gary Hart","democrat",590501,1173142,0.503349978093019,-0.0163714196576374,2019
+1980,"Colorado","CO","US Senate","Mary Estill Buchanan","republican",571295,1173142,0.486978558435381,-0.0163714196576374,2019
+1980,"Connecticut","CT","US Senate","Christopher J. Dodd","democrat",763969,1356075,0.563367807827738,-0.134273546817101,2008
+1980,"Connecticut","CT","US Senate","James L. Buckley","republican",581884,1356075,0.429094261010637,-0.134273546817101,2008
+1980,"Illinois","IL","US Senate","Alan J. Dixon","democrat",2565302,4580029,0.560106060463809,-0.135153292697492,2013
+1980,"Illinois","IL","US Senate","David C. O'Neal","republican",1946296,4580029,0.424952767766318,-0.135153292697492,2013
+1980,"Indiana","IN","US Senate","Birch Bayh","democrat",1015962,2198376,0.462142053952554,0.0757158920948919,1995
+1980,"Indiana","IN","US Senate","Dan Quayle","republican",1182414,2198376,0.537857946047446,0.0757158920948919,1995
+1980,"Kentucky","KY","US Senate","Wendell H. Ford","democrat",720891,1106920,0.651258446861562,-0.302516893723124,2010
+1980,"Kentucky","KY","US Senate","Mary Louise Foust","republican",386029,1106920,0.348741553138438,-0.302516893723124,2010
+1980,"Maryland","MD","US Senate","Edward T. Conroy","democrat",435118,1286088,0.3383267707964,0.323346458407201,2010
+1980,"Maryland","MD","US Senate","Charles McC. Mathias Jr. ","republican",850970,1286088,0.6616732292036,0.323346458407201,2010
+1980,"North Carolina","NC","US Senate","Robert Morgan","democrat",887653,1797665,0.493781099370572,0.00579140162377306,2016
+1980,"North Carolina","NC","US Senate","John P. East","republican",898064,1797665,0.499572500994345,0.00579140162377306,2016
+1980,"Ohio","OH","US Senate","John Glenn","democrat",2770786,4027303,0.688000381396682,-0.405504875098794,1981
+1980,"Ohio","OH","US Senate","James E. Betts","republican",1137695,4027303,0.282495506297887,-0.405504875098794,1981
+1980,"South Carolina","SC","US Senate","Ernest Fritz Hollings","democrat",612554,870500,0.703680643308443,-0.407361286616887,1997
+1980,"South Carolina","SC","US Senate","Marshall Mays","republican",257946,870500,0.296319356691557,-0.407361286616887,1997
+1980,"Utah","UT","US Senate","Dan Berman","democrat",151454,594298,0.254845212334553,0.48161191859976,2018
+1980,"Utah","UT","US Senate","Jake Garn","republican",437675,594298,0.736457130934312,0.48161191859976,2018
+1980,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",104176,209124,0.498154205160575,-0.0131740020275052,2010
+1980,"Vermont","VT","US Senate","Stewart M. Ledbetter","republican",101421,209124,0.484980203133069,-0.0131740020275052,2010
+1982,"Connecticut","CT","US Senate","Anthony Toby Moffett","democrat",499146,1083508,0.460675878719862,0.0432308760064531,2008
+1982,"Connecticut","CT","US Senate","Lowell P. Weicker, Jr.","republican",545987,1083508,0.503906754726315,0.0432308760064531,2008
+1982,"Delaware","DE","US Senate","David N. Levinson","democrat",84413,190960,0.442045454545455,0.109677419354839,2010
+1982,"Delaware","DE","US Senate","William V. Roth, Jr.","republican",105357,190960,0.551722873900293,0.109677419354839,2010
+1982,"Indiana","IN","US Senate","Floyd J. Fithian","democrat",828400,1817287,0.455844343793798,0.0824861455565357,1995
+1982,"Indiana","IN","US Senate","Richard G. Lugar","republican",978301,1817287,0.538330489350334,0.0824861455565357,1995
+1982,"Maine","ME","US Senate","George J. Mitchell","democrat",279819,459715,0.60867929042994,-0.217389034510512,2004
+1982,"Maine","ME","US Senate","David F. Emery","republican",179882,459715,0.391290255919428,-0.217389034510512,2004
+1982,"Maryland","MD","US Senate","Paul S. Sarbanes","democrat",707356,1114690,0.634576429321157,-0.269152858642313,2010
+1982,"Maryland","MD","US Senate","Lawrence J. Hogan","republican",407334,1114690,0.365423570678843,-0.269152858642313,2010
+1982,"Mississippi","MS","US Senate","John C. Stennis","democrat",414099,645026,0.641988074899306,-0.283976149798613,1997
+1982,"Mississippi","MS","US Senate","Haley Barbour","republican",230927,645026,0.358011925100694,-0.283976149798613,1997
+1982,"Nebraska","NE","US Senate","Edward Zorinsky","democrat",363350,545647,0.665906712581578,-0.38044743213103,1994
+1982,"Nebraska","NE","US Senate","Jim Keck","republican",155760,545647,0.285459280450548,-0.38044743213103,1994
+1982,"New Mexico","NM","US Senate","Jeff Bingaman","democrat",217682,404810,0.537738692225983,-0.0754773844519652,2016
+1982,"New Mexico","NM","US Senate","Harrison H. Schmitt","republican",187128,404810,0.462261307774017,-0.0754773844519652,2016
+1982,"Ohio","OH","US Senate","Howard M. Metzenbaum","democrat",1923767,3395463,0.566569861017481,-0.155200336448961,1981
+1982,"Ohio","OH","US Senate","Paul E. Pfeifer","republican",1396790,3395463,0.41136952456852,-0.155200336448961,1981
+1982,"Utah","UT","US Senate","Ted Wilson","democrat",219482,530802,0.413491283001948,0.169272157979812,2018
+1982,"Utah","UT","US Senate","Orrin G. Hatch","republican",309332,530802,0.58276344098176,0.169272157979812,2018
+1982,"Vermont","VT","US Senate","James A. Guest","democrat",79340,168002,0.472256282663302,0.0304103522577112,2010
+1982,"Vermont","VT","US Senate","Robert T. Stafford","republican",84449,168002,0.502666634921013,0.0304103522577112,2010
+1982,"Virginia","VA","US Senate","Richard J. (Dick) Davis","democrat",690839,1415622,0.488010923820059,0.0238283948681216,2004
+1982,"Virginia","VA","US Senate","Paul S. Trible, Jr.","republican",724571,1415622,0.511839318688181,0.0238283948681216,2004
+1982,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",387170,565314,0.684876015807144,-0.377241674538398,2013
+1982,"West Virginia","WV","US Senate","Cleve Benedict","republican",173910,565314,0.307634341268746,-0.377241674538398,2013
+1984,"Colorado","CO","US Senate","Nancy Dick","democrat",449327,1297809,0.346219667146706,0.296263934061175,2019
+1984,"Colorado","CO","US Senate","William L. ""Bill"" Armstrong","republican",833821,1297809,0.642483601207882,0.296263934061175,2019
+1984,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",147831,245932,0.601105183546671,-0.202210367093343,2010
+1984,"Delaware","DE","US Senate","John M. Burris","republican",98101,245932,0.398894816453329,-0.202210367093343,2010
+1984,"Illinois","IL","US Senate","Paul Simon","democrat",2397165,4787335,0.500730573481906,-0.0186170384984548,2013
+1984,"Illinois","IL","US Senate","Charles H. Percy","republican",2308039,4787335,0.482113534983451,-0.0186170384984548,2013
+1984,"Kentucky","KY","US Senate","Walter (Dee) Huddleston","democrat",639721,1292407,0.494984165204924,0.00407688909143944,2010
+1984,"Kentucky","KY","US Senate","Mitch McConnell","democrat",644990,1292407,0.499061054296363,-0.240402280180739,2010
+1984,"Maine","ME","US Senate","Elizabeth H. Mitchell","democrat",142626,551406,0.258658774115624,0.474764511086205,2004
+1984,"Maine","ME","US Senate","William S. Cohen","republican",404414,551406,0.73342328520183,0.474764511086205,2004
+1984,"Mississippi","MS","US Senate","William F. Winter","democrat",371926,952240,0.390580105855667,0.218839788288667,1997
+1984,"Mississippi","MS","US Senate","Thad Cochran","republican",580314,952240,0.609419894144333,0.218839788288667,1997
+1984,"Nebraska","NE","US Senate","J. J. Exon","democrat",332217,639668,0.51935847971135,-0.0391922059568401,1994
+1984,"Nebraska","NE","US Senate","Nancy Hoch","republican",307147,639668,0.48016627375451,-0.0391922059568401,1994
+1984,"New Mexico","NM","US Senate","Judith A. Pratt","democrat",141253,502634,0.281025557363807,0.437928990080257,2016
+1984,"New Mexico","NM","US Senate","Pete V. Domenici","republican",361371,502634,0.718954547444065,0.437928990080257,2016
+1984,"North Carolina","NC","US Senate","James B. (Jim) Hunt Jr.","democrat",1070488,2239051,0.478098980326933,0.0385341825621658,2016
+1984,"North Carolina","NC","US Senate","Jesse Helms","republican",1156768,2239051,0.516633162889099,0.0385341825621658,2016
+1984,"South Carolina","SC","US Senate","Melvin Purvis","democrat",306982,965130,0.318073212935045,0.350038854869292,1997
+1984,"South Carolina","SC","US Senate","Strom Thurmond","republican",644815,965130,0.668112067804337,0.350038854869292,1997
+1984,"Virginia","VA","US Senate","Edythe C. ""Edie"" Harrison","democrat",601142,2007487,0.299450008891714,0.401024763796727,2004
+1984,"Virginia","VA","US Senate","John W. Warner","republican",1406194,2007487,0.700474772688441,0.401024763796727,2004
+1984,"West Virginia","WV","US Senate","Jay Rockefeller","democrat",374233,722212,0.518176103415618,-0.0409201176385882,2013
+1984,"West Virginia","WV","US Senate","John R. Raese","republican",344680,722212,0.477255985777029,-0.0409201176385882,2013
+1986,"Colorado","CO","US Senate","Timothy E. Wirth","democrat",529449,1060765,0.499119974735215,-0.0155123896433235,2019
+1986,"Colorado","CO","US Senate","Ken Kramer","republican",512994,1060765,0.483607585091891,-0.0155123896433235,2019
+1986,"Connecticut","CT","US Senate","Christopher J. Dodd","democrat",632695,976933,0.647633972851772,-0.299157669973273,2008
+1986,"Connecticut","CT","US Senate","Roger W. Eddy","republican",340438,976933,0.348476302878498,-0.299157669973273,2008
+1986,"Illinois","IL","US Senate","Alan J. Dixon","democrat",2033783,3122883,0.651251743981443,-0.313828279829888,2013
+1986,"Illinois","IL","US Senate","Judy Koehler","republican",1053734,3122883,0.337423464151555,-0.313828279829888,2013
+1986,"Indiana","IN","US Senate","Jill Lynette Long","democrat",595192,1545563,0.385097210531049,0.220599872020746,1995
+1986,"Indiana","IN","US Senate","Dan Quayle","republican",936143,1545563,0.605697082551795,0.220599872020746,1995
+1986,"Kentucky","KY","US Senate","Wendell H. Ford","democrat",503775,677280,0.743820871722183,-0.487900129931491,2010
+1986,"Kentucky","KY","US Senate","Jackson M. Andrews","republican",173330,677280,0.255920741790692,-0.487900129931491,2010
+1986,"Maryland","MD","US Senate","Barbara A. Mikulski","democrat",675225,1112637,0.606869086683258,-0.213739072132241,2010
+1986,"Maryland","MD","US Senate","Linda Chavez","republican",437411,1112637,0.393130014551017,-0.213739072132241,2010
+1986,"North Carolina","NC","US Senate","Terry Sanford","democrat",780967,1534848,0.508823675047953,-0.0176473500959053,2016
+1986,"North Carolina","NC","US Senate","James T. (Jim) Broyhill","republican",753881,1534848,0.491176324952047,-0.0176473500959053,2016
+1986,"Ohio","OH","US Senate","John Glenn","democrat",1949208,3121189,0.624508160191517,-0.249044514766648,1981
+1986,"Ohio","OH","US Senate","Thomas N. Kindness","republican",1171893,3121189,0.375463645424869,-0.249044514766648,1981
+1986,"South Carolina","SC","US Senate","Ernest Fritz Hollings","democrat",465500,737962,0.63079128735626,-0.274558852623848,1997
+1986,"South Carolina","SC","US Senate","Henry D. McMaster","republican",262886,737962,0.356232434732412,-0.274558852623848,1997
+1986,"Utah","UT","US Senate","Craig S. Oliver","democrat",115523,435111,0.265502366062913,0.45754991255105,2018
+1986,"Utah","UT","US Senate","E. J. ""Jake"" Garn","republican",314608,435111,0.723052278613963,0.45754991255105,2018
+1986,"Vermont","VT","US Senate","Patrick Leahy","democrat",124123,196532,0.631566360694442,-0.286594549488124,2010
+1986,"Vermont","VT","US Senate","Dick Snelling","republican",67798,196532,0.344971811206318,-0.286594549488124,2010
+1988,"Connecticut","CT","US Senate","Joe Lieberman","democrat",688499,1383526,0.497640810508801,-0.00726043457079956,2008
+1988,"Connecticut","CT","US Senate","Lowell P. Weicher, Jr.","republican",678454,1383526,0.490380375938002,-0.00726043457079956,2008
+1988,"Delaware","DE","US Senate","S. B. Woo","democrat",92378,243493,0.379386676413696,0.241226647172609,2010
+1988,"Delaware","DE","US Senate","William V. Roth, Jr.","republican",151115,243493,0.620613323586304,0.241226647172609,2010
+1988,"Indiana","IN","US Senate","Jack Wickes","democrat",668778,2099303,0.318571449666866,0.362857100666269,1995
+1988,"Indiana","IN","US Senate","Richard G. Lugar","republican",1430525,2099303,0.681428550333134,0.362857100666269,1995
+1988,"Maine","ME","US Senate","George J. Mitchell","democrat",452581,556745,0.812905369603679,-0.625810739207357,2004
+1988,"Maine","ME","US Senate","Jasper S. Wyman","republican",104164,556745,0.187094630396321,-0.625810739207357,2004
+1988,"Maryland","MD","US Senate","Paul S. Sarbanes","democrat",999166,1617065,0.617888582091629,-0.23600102655119,2010
+1988,"Maryland","MD","US Senate","Alan L. Keyes","republican",617537,1617065,0.381887555540439,-0.23600102655119,2010
+1988,"Mississippi","MS","US Senate","Wayne Dowdy","democrat",436339,946719,0.460895999763393,0.0782080004732133,1997
+1988,"Mississippi","MS","US Senate","Trent Lott","republican",510380,946719,0.539104000236607,0.0782080004732133,1997
+1988,"Nebraska","NE","US Senate","Bob Kerrey","democrat",378717,667860,0.567060461773426,-0.150431228101698,1994
+1988,"Nebraska","NE","US Senate","Dave Karnes","republican",278250,667860,0.416629233671728,-0.150431228101698,1994
+1988,"New Mexico","NM","US Senate","Jeff Bingaman","democrat",321983,508598,0.633079563820542,-0.266229910459734,2016
+1988,"New Mexico","NM","US Senate","Bill Valentine","republican",186579,508598,0.366849653360808,-0.266229910459734,2016
+1988,"Ohio","OH","US Senate","Howard M. Metzenbaum","democrat",2480038,4352905,0.56974319448736,-0.139521078452206,1981
+1988,"Ohio","OH","US Senate","George V Voinovich","republican",1872716,4352905,0.430222116035154,-0.139521078452206,1981
+1988,"Utah","UT","US Senate","Brian H. Moss","democrat",203364,640702,0.317408092997993,0.353869661714807,2018
+1988,"Utah","UT","US Senate","Orrin G. Hatch","republican",430089,640702,0.671277754712799,0.353869661714807,2018
+1988,"Vermont","VT","US Senate","Bill Gray","democrat",71460,240108,0.297616072767255,0.382007263398138,2010
+1988,"Vermont","VT","US Senate","James M. Jeffords","republican",163183,240108,0.679623336165392,0.382007263398138,2010
+1988,"Virginia","VA","US Senate","Charles S. Robb","democrat",1474086,2068897,0.712498495575178,-0.425557193035709,2004
+1988,"Virginia","VA","US Senate","Maurice A. Dawkins","republican",593652,2068897,0.286941302539469,-0.425557193035709,2004
+1988,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",410983,634547,0.647679368116152,-0.295358736232304,2013
+1988,"West Virginia","WV","US Senate","M. Jay Wolfe","republican",223564,634547,0.352320631883848,-0.295358736232304,2013
+1990,"Colorado","CO","US Senate","Josie Heath","democrat",425746,1022027,0.416570208027772,0.140213516864036,2019
+1990,"Colorado","CO","US Senate","Hank Brown","republican",569048,1022027,0.556783724891808,0.140213516864036,2019
+1990,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",112918,180157,0.626775534672536,-0.268454736701877,2010
+1990,"Delaware","DE","US Senate","M. Jane Brady","republican",64554,180157,0.358320797970659,-0.268454736701877,2010
+1990,"Illinois","IL","US Senate","Paul Simon","democrat",2115377,3251005,0.650684019249432,-0.301368038498864,2013
+1990,"Illinois","IL","US Senate","Lynn Martin","republican",1135628,3251005,0.349315980750568,-0.301368038498864,2013
+1990,"Indiana","IN","US Senate","Baron P. Hill","democrat",696639,1502687,0.463595545845542,0.072808908308916,1995
+1990,"Indiana","IN","US Senate","Dan Coats","republican",806048,1502687,0.536404454154458,0.072808908308916,1995
+1990,"Kentucky","KY","US Senate","G. Harvey Sloane","democrat",437976,916010,0.478134518182116,0.0437309636357681,2010
+1990,"Kentucky","KY","US Senate","Mitch McConnell","republican",478034,916010,0.521865481817884,0.0437309636357681,2010
+1990,"Maine","ME","US Senate","Neil Rolde","democrat",201053,520320,0.386402598400984,0.227002613776138,2004
+1990,"Maine","ME","US Senate","William S. Cohen","republican",319167,520320,0.613405212177122,0.227002613776138,2004
+1990,"Mississippi","MS","US Senate","Thad Cochran","republican",274244,274244,1,0.386594787822878,1997
+1990,"Nebraska","NE","US Senate","J. James Exon","democrat",349779,593828,0.589024094518952,-0.179792801956122,1994
+1990,"Nebraska","NE","US Senate","Hal Daub","republican",243013,593828,0.40923129256283,-0.179792801956122,1994
+1990,"New Mexico","NM","US Senate","Tom R. Benavides","democrat",110033,406938,0.270392541369938,0.458740643537836,2016
+1990,"New Mexico","NM","US Senate","Pete V. Domenici","republican",296712,406938,0.729133184907775,0.458740643537836,2016
+1990,"North Carolina","NC","US Senate","Harvey B. Gantt","democrat",981573,2069585,0.474284941183861,0.0511010661557751,2016
+1990,"North Carolina","NC","US Senate","Jesse Helms","republican",1087331,2069585,0.525386007339636,0.0511010661557751,2016
+1990,"South Carolina","SC","US Senate","Bob Cunningham","democrat",244112,750716,0.32517223557244,0.316924109783194,1997
+1990,"South Carolina","SC","US Senate","Strom Thurmond","republican",482032,750716,0.642096345355634,0.316924109783194,1997
+1990,"Virginia","VA","US Senate","John Warner","republican",876782,1083690,0.809070859747714,0.16697451439208,2004
+1990,"West Virginia","WV","US Senate","John D. Rockefeller IV","democrat",276234,404305,0.683231718628263,-0.366463437256527,2013
+1990,"West Virginia","WV","US Senate","John Yoder","republican",128071,404305,0.316768281371737,-0.366463437256527,2013
+1992,"Colorado","CO","US Senate","Ben Nighthorse Campbell","democrat",803725,1552289,0.517767632187048,-0.0907253739477636,2019
+1992,"Colorado","CO","US Senate","Terry Considine","republican",662893,1552289,0.427042258239284,-0.0907253739477636,2019
+1992,"Connecticut","CT","US Senate","Christopher J. Dodd","democrat",577662,1500661,0.384938370491403,-0.00374901460089921,2008
+1992,"Connecticut","CT","US Senate","Brook Johnson","republican",572036,1500661,0.381189355890504,-0.00374901460089921,2008
+1992,"Illinois","IL","US Senate","Carol Moseley-Braun","democrat",2631229,4939558,0.53268511069209,-0.102113589920394,2013
+1992,"Illinois","IL","US Senate","Richard S. Williamson","republican",2126833,4939558,0.430571520771697,-0.102113589920394,2013
+1992,"Indiana","IN","US Senate","Joseph H. Hogsett","democrat",900148,2211426,0.407044142557788,0.166328875576212,1995
+1992,"Indiana","IN","US Senate","Dan Coats","republican",1267972,2211426,0.573373018134,0.166328875576212,1995
+1992,"Kentucky","KY","US Senate","Wendell H. Ford","democrat",836888,1330858,0.628833429261424,-0.270715583480732,2010
+1992,"Kentucky","KY","US Senate","David L. Williams","republican",476604,1330858,0.358117845780692,-0.270715583480732,2010
+1992,"Maryland","MD","US Senate","Barbara A. Mikulski","democrat",1307610,1841298,0.710156639501048,-0.420313279002095,2010
+1992,"Maryland","MD","US Senate","Alan L. Keyes","republican",533688,1841298,0.289843360498952,-0.420313279002095,2010
+1992,"North Carolina","NC","US Senate","Terry Sanford","democrat",1194015,2577891,0.463175130368196,0.0402953422002714,2016
+1992,"North Carolina","NC","US Senate","Lauch Faircloth","republican",1297892,2577891,0.503470472568468,0.0402953422002714,2016
+1992,"Ohio","OH","US Senate","John Glenn","democrat",2444419,4793953,0.509896321469985,-0.086800809269511,1981
+1992,"Ohio","OH","US Senate","Michael DeWine","republican",2028300,4793953,0.423095512200474,-0.086800809269511,1981
+1992,"South Carolina","SC","US Senate","Ernest F. Hollings","democrat",591030,1180438,0.500687033118215,-0.0312214618641556,1997
+1992,"South Carolina","SC","US Senate","Tommy Hartnett","republican",554175,1180438,0.46946557125406,-0.0312214618641556,1997
+1992,"Utah","UT","US Senate","Wayne Owens","democrat",301228,758479,0.397147449039459,0.156683309623602,2018
+1992,"Utah","UT","US Senate","Robert F. Bennett","republican",420069,758479,0.553830758663061,0.156683309623602,2018
+1992,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",154762,285739,0.541620149857037,-0.108168643412345,2010
+1992,"Vermont","VT","US Senate","James H. Douglas","republican",123854,285739,0.433451506444693,-0.108168643412345,2010
+1994,"Connecticut","CT","US Senate","Joseph I. Lieberman","democrat",443793,1079664,0.411047325834704,-0.100920286311297,2008
+1994,"Connecticut","CT","US Senate","Jerry Labriola","republican",334833,1079664,0.310127039523407,-0.100920286311297,2008
+1994,"Delaware","DE","US Senate","Charles M. Oberly","democrat",84540,199000,0.424824120603015,0.133336683417085,2010
+1994,"Delaware","DE","US Senate","William V. Roth, Jr.","republican",111074,199000,0.5581608040201,0.133336683417085,2010
+1994,"Indiana","IN","US Senate","James Jontz","democrat",470799,1543568,0.305006970862314,0.36851372922994,1995
+1994,"Indiana","IN","US Senate","Richard G. Lugar","republican",1039625,1543568,0.673520700092254,0.36851372922994,1995
+1994,"Maine","ME","US Senate","Thomas H. Andrews","democrat",186042,511733,0.363552868390352,0.238800311881391,2004
+1994,"Maine","ME","US Senate","Olympia J. Snowe","republican",308244,511733,0.602353180271743,0.238800311881391,2004
+1994,"Maryland","MD","US Senate","Paul S. Sarbanes","democrat",809125,1369101,0.590990000007304,-0.18202966764322,2010
+1994,"Maryland","MD","US Senate","William Brock","republican",559908,1369101,0.408960332364084,-0.18202966764322,2010
+1994,"Mississippi","MS","US Senate","Ken Harper","democrat",189752,608085,0.312048480064465,0.375903039871071,1997
+1994,"Mississippi","MS","US Senate","Trent Lott","republican",418333,608085,0.687951519935535,0.375903039871071,1997
+1994,"Nebraska","NE","US Senate","J. Robert Kerrey","democrat",317297,579205,0.547814677014183,-0.0977702195250386,1994
+1994,"Nebraska","NE","US Senate","Jan Stoney","republican",260668,579205,0.450044457489145,-0.0977702195250386,1994
+1994,"New Mexico","NM","US Senate","Jeff Bingaman","democrat",249989,463196,0.539704574305478,-0.0798020708296272,2016
+1994,"New Mexico","NM","US Senate","Colin R. McMillan","republican",213025,463196,0.45990250347585,-0.0798020708296272,2016
+1994,"Ohio","OH","US Senate","Joel Hyatt","democrat",1348213,3436884,0.392277714348229,0.142088880509205,1981
+1994,"Ohio","OH","US Senate","Mike DeWine","republican",1836556,3436884,0.534366594857435,0.142088880509205,1981
+1994,"Utah","UT","US Senate","Patrick A. Shea","democrat",146938,519304,0.282951797020628,0.405078720749311,2018
+1994,"Utah","UT","US Senate","Orrin G. Hatch","republican",357297,519304,0.688030517769938,0.405078720749311,2018
+1994,"Vermont","VT","US Senate","Jan Backus","democrat",85868,211672,0.405665369061567,0.0974951812237801,2010
+1994,"Vermont","VT","US Senate","James M. Jeffords","republican",106505,211672,0.503160550285347,0.0974951812237801,2010
+1994,"Virginia","VA","US Senate","Charles S. Robb","democrat",938376,2057463,0.456084021924088,-0.0272972102049952,2004
+1994,"Virginia","VA","US Senate","Oliver L. ""Ollie"" North","republican",882213,2057463,0.428786811719093,-0.0272972102049952,2004
+1994,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",290495,420936,0.690116787350096,-0.380233574700192,2013
+1994,"West Virginia","WV","US Senate","Stan Klos","republican",130441,420936,0.309883212649904,-0.380233574700192,2013
+1996,"Colorado","CO","US Senate","Tom Strickland","democrat",667600,1459601,0.45738527172837,0.0566695966911505,2019
+1996,"Colorado","CO","US Senate","Wayne Allard","republican",750315,1459601,0.51405486841952,0.0566695966911505,2019
+1996,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",165465,275591,0.600400593633319,-0.219081900352334,2010
+1996,"Delaware","DE","US Senate","Raymond J. Clatworthy","republican",105088,275591,0.381318693280985,-0.219081900352334,2010
+1996,"Illinois","IL","US Senate","Richard J. Durbin","democrat",2384028,4250722,0.560852485765947,-0.154139461484425,2013
+1996,"Illinois","IL","US Senate","Al Salvi","republican",1728824,4250722,0.406713024281522,-0.154139461484425,2013
+1996,"Kentucky","KY","US Senate","Steven L. Beshear","democrat",560012,1307046,0.428456228778482,0.126072073974443,2010
+1996,"Kentucky","KY","US Senate","Mitch McConnell","republican",724794,1307046,0.554528302752925,0.126072073974443,2010
+1996,"Maine","ME","US Senate","Joseph E. Brennan","democrat",266226,606777,0.438754270514538,0.0530606796236509,2004
+1996,"Maine","ME","US Senate","Susan M. Collins","republican",298422,606777,0.491814950138189,0.0530606796236509,2004
+1996,"Mississippi","MS","US Senate","James W. (Bootie) Hunt","democrat",240647,878662,0.273878920449502,0.436467037381837,1997
+1996,"Mississippi","MS","US Senate","Thad Cochran","republican",624154,878662,0.710345957831339,0.436467037381837,1997
+1996,"Nebraska","NE","US Senate","Ben Nelson","democrat",281904,661837,0.425941734898472,0.148116530203056,1994
+1996,"Nebraska","NE","US Senate","Chuck Hagel","republican",379933,661837,0.574058265101528,0.148116530203056,1994
+1996,"New Mexico","NM","US Senate","Art Trujillo","democrat",164356,551821,0.297842959945345,0.349415843181032,2016
+1996,"New Mexico","NM","US Senate","Pete V. Domenici","republican",357171,551821,0.647258803126376,0.349415843181032,2016
+1996,"North Carolina","NC","US Senate","Harvey B. Gantt","democrat",1173875,2556456,0.45918060001815,0.0672642126443796,2016
+1996,"North Carolina","NC","US Senate","Jesse Helms","republican",1345833,2556456,0.52644481266253,0.0672642126443796,2016
+1996,"South Carolina","SC","US Senate","Elliot Springs Close","democrat",510951,1161231,0.440008060411753,0.0937866798251166,1997
+1996,"South Carolina","SC","US Senate","Strom Thurmond","republican",619859,1161231,0.533794740236869,0.0937866798251166,1997
+1996,"Virginia","VA","US Senate","Mark R. Warner","democrat",1115982,2354715,0.47393506220498,0.0508605075348822,2004
+1996,"Virginia","VA","US Senate","John W. Warner","republican",1235744,2354715,0.524795569739862,0.0508605075348822,2004
+1996,"West Virginia","WV","US Senate","John D. Rockefeller IV","democrat",456526,595614,0.766479632782305,-0.532959265564611,2013
+1996,"West Virginia","WV","US Senate","Betty A. Burks","republican",139088,595614,0.233520367217695,-0.532959265564611,2013
+1998,"Colorado","CO","US Senate","Dottie Lamm","democrat",464754,1327235,0.350167076666905,0.274718493710609,2019
+1998,"Colorado","CO","US Senate","Ben Nighthorse Campbell","republican",829370,1327235,0.624885570377514,0.274718493710609,2019
+1998,"Connecticut","CT","US Senate","Christopher J. Dodd","democrat",628306,964457,0.651460873838854,-0.327779258173252,2008
+1998,"Connecticut","CT","US Senate","Gary Franks","republican",312177,964457,0.323681615665602,-0.327779258173252,2008
+1998,"Illinois","IL","US Senate","Carol Moseley-Braun","democrat",1610496,3394521,0.474439839965639,0.0290306054963277,2013
+1998,"Illinois","IL","US Senate","Peter G. Fitzgerald","republican",1709041,3394521,0.503470445461967,0.0290306054963277,2013
+1998,"Indiana","IN","US Senate","Evan Bayh","democrat",1012244,1588617,0.637185677856903,-0.289252853267968,1995
+1998,"Indiana","IN","US Senate","Paul Helmke","republican",552732,1588617,0.347932824588935,-0.289252853267968,1995
+1998,"Kentucky","KY","US Senate","Scotty Baesler","democrat",563051,1145414,0.491569860329977,0.00590703448709379,2010
+1998,"Kentucky","KY","US Senate","Jim Bunning","republican",569817,1145414,0.497476894817071,0.00590703448709379,2010
+1998,"Maryland","MD","US Senate","Barbara A. Mikulski","democrat",1062810,1507447,0.705039712838992,-0.410079425677984,2010
+1998,"Maryland","MD","US Senate","Ross Z. Pierpont","republican",444637,1507447,0.294960287161008,-0.410079425677984,2010
+1998,"North Carolina","NC","US Senate","John Edwards","democrat",1029237,2012143,0.511512849732847,-0.0413956662125903,2016
+1998,"North Carolina","NC","US Senate","Lauch Faircloth","republican",945943,2012143,0.470117183520257,-0.0413956662125903,2016
+1998,"Ohio","OH","US Senate","Mary O. Boyle","democrat",1482054,3404351,0.435341126693458,0.12925606084684,1981
+1998,"Ohio","OH","US Senate","George V. Voinovich","republican",1922087,3404351,0.564597187540298,0.12925606084684,1981
+1998,"South Carolina","SC","US Senate","Ernest F. Hollings","democrat",563377,1069063,0.526982039412083,-0.0702849130500261,1997
+1998,"South Carolina","SC","US Senate","Bob Inglis","republican",488238,1069063,0.456697126362057,-0.0702849130500261,1997
+1998,"Utah","UT","US Senate","Scott Leckman","democrat",163172,494909,0.329701015742288,0.310117617582222,2018
+1998,"Utah","UT","US Senate","Robert F. Bennett","republican",316652,494909,0.63981863332451,0.310117617582222,2018
+1998,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",154567,214036,0.7221542170476,-0.497654600160721,2010
+1998,"Vermont","VT","US Senate","Fred H. Tuttle","republican",48051,214036,0.224499616886879,-0.497654600160721,2010
+2000,"Connecticut","CT","US Senate","Joseph I. Lieberman","democrat",828902,1311261,0.632141122171711,-0.290426543609548,2008
+2000,"Connecticut","CT","US Senate","Phil Giordano","republican",448077,1311261,0.341714578562163,-0.290426543609548,2008
+2000,"Delaware","DE","US Senate","Thomas R. Carper","democrat",181566,326993,0.555259592712994,-0.118274703128202,2010
+2000,"Delaware","DE","US Senate","William V. Roth, Jr.","republican",142891,326993,0.436984889584792,-0.118274703128202,2010
+2000,"Indiana","IN","US Senate","David L. Johnson","democrat",683273,2145209,0.318511156721793,0.347132144233965,1995
+2000,"Indiana","IN","US Senate","Richard G. Lugar","republican",1427944,2145209,0.665643300955758,0.347132144233965,1995
+2000,"Maine","ME","US Senate","Mark W. Lawrence","democrat",197183,634872,0.310587015965423,0.378825968069154,2004
+2000,"Maine","ME","US Senate","Olympia J. Snowe","republican",437689,634872,0.689412984034577,0.378825968069154,2004
+2000,"Maryland","MD","US Senate","Paul S. Sarbanes","democrat",1230013,1946898,0.631780915076188,-0.264438609521403,2010
+2000,"Maryland","MD","US Senate","Paul H. Rappaport","republican",715178,1946898,0.367342305554785,-0.264438609521403,2010
+2000,"Mississippi","MS","US Senate","Troy D. Brown, Sr.","democrat",314090,994144,0.315940145492001,0.342858781021663,1997
+2000,"Mississippi","MS","US Senate","Trent Lott","republican",654941,994144,0.658798926513664,0.342858781021663,1997
+2000,"Nebraska","NE","US Senate","Ben Nelson","democrat",353093,692350,0.50999205604102,-0.0218328879901784,1994
+2000,"Nebraska","NE","US Senate","Don Stenberg","republican",337977,692350,0.488159168050841,-0.0218328879901784,1994
+2000,"New Mexico","NM","US Senate","Jeff Bingaman","democrat",363744,589526,0.617010954563497,-0.234471422804083,2016
+2000,"New Mexico","NM","US Senate","Bill Redmond","republican",225517,589526,0.382539531759414,-0.234471422804083,2016
+2000,"Ohio","OH","US Senate","Ted Celeste","democrat",1595066,4448801,0.358538401695198,0.240614493657954,1981
+2000,"Ohio","OH","US Senate","Mike DeWine","republican",2665512,4448801,0.599152895353152,0.240614493657954,1981
+2000,"Utah","UT","US Senate","Scott N. Howell","democrat",242569,769704,0.315145822290127,0.340694604679201,2018
+2000,"Utah","UT","US Senate","Orrin G. Hatch","republican",504803,769704,0.655840426969328,0.340694604679201,2018
+2000,"Vermont","VT","US Senate","Ed Flanagan","democrat",73352,288500,0.254253032928943,0.401320623916811,2010
+2000,"Vermont","VT","US Senate","James M. Jeffords","republican",189133,288500,0.655573656845754,0.401320623916811,2010
+2000,"Virginia","VA","US Senate","Charles S. Robb","democrat",1296093,2718301,0.47680260574528,0.0457517397815768,2004
+2000,"Virginia","VA","US Senate","George F. Allen","republican",1420460,2718301,0.522554345526857,0.0457517397815768,2004
+2000,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",469215,603477,0.777519275796758,-0.575962298480307,2013
+2000,"West Virginia","WV","US Senate","David T. Gallaher","republican",121635,603477,0.201556977316451,-0.575962298480307,2013
+2002,"Colorado","CO","US Senate","Tom Strickland","democrat",648130,1416082,0.457692421766536,0.0492648024620043,2019
+2002,"Colorado","CO","US Senate","Wayne Allard","republican",717893,1416082,0.50695722422854,0.0492648024620043,2019
+2002,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",135253,232314,0.582199092607419,-0.174160834043579,2010
+2002,"Delaware","DE","US Senate","Raymond J. Clatworthy","republican",94793,232314,0.40803825856384,-0.174160834043579,2010
+2002,"Illinois","IL","US Senate","Richard J. Durbin","democrat",2103766,3486851,0.603342672227749,-0.223142027003735,2013
+2002,"Illinois","IL","US Senate","Jim Durkin","republican",1325703,3486851,0.380200645224014,-0.223142027003735,2013
+2002,"Kentucky","KY","US Senate","Lois Combs Weinberg","democrat",399634,1131313,0.35324795171628,0.29350409656744,2010
+2002,"Kentucky","KY","US Senate","Mitch McConnell","republican",731679,1131313,0.64675204828372,0.29350409656744,2010
+2002,"Maine","ME","US Senate","Chellie Pingree","democrat",209858,504899,0.415643524744553,0.168712950510894,2004
+2002,"Maine","ME","US Senate","Susan M. Collins","republican",295041,504899,0.584356475255447,0.168712950510894,2004
+2002,"Mississippi","MS","US Senate","Thad Cochran","republican",533269,630495,0.845794177590623,0.261437702335176,1997
+2002,"Nebraska","NE","US Senate","Charlie A. Matulka","democrat",70290,480217,0.14637132796215,0.681250351403636,1994
+2002,"Nebraska","NE","US Senate","Chuck Hagel","republican",397438,480217,0.827621679365787,0.681250351403636,1994
+2002,"New Mexico","NM","US Senate","Gloria Tristani","democrat",168863,483056,0.349572306316452,0.300855387367096,2016
+2002,"New Mexico","NM","US Senate","Pete V. Domenici","republican",314193,483056,0.650427693683548,0.300855387367096,2016
+2002,"North Carolina","NC","US Senate","Erskine B. Bowles","democrat",1047983,2331181,0.449550249422932,0.0860855506286299,2016
+2002,"North Carolina","NC","US Senate","Elizabeth H. Dole","republican",1248664,2331181,0.535635800051562,0.0860855506286299,2016
+2002,"South Carolina","SC","US Senate","Alex Sanders","democrat",487359,1102912,0.44188384930076,0.102139608599779,1997
+2002,"South Carolina","SC","US Senate","Lindsey O. Graham","republican",600010,1102912,0.54402345790054,0.102139608599779,1997
+2002,"Virginia","VA","US Senate","John W. Warner","republican",1229894,1489422,0.825752540247156,0.281729082346617,2004
+2002,"West Virginia","WV","US Senate","John D. Rockefeller IV","democrat",275281,436183,0.63111354637847,-0.262227092756939,2013
+2002,"West Virginia","WV","US Senate","Jay Wolfe","republican",160902,436183,0.36888645362153,-0.262227092756939,2013
+2004,"Colorado","CO","US Senate","Ken Salazar","democrat",1081188,2107472,0.513026033086086,-0.047696956353394,2019
+2004,"Colorado","CO","US Senate","Pete Coors","republican",980668,2107472,0.465329076732692,-0.047696956353394,2019
+2004,"Connecticut","CT","US Senate","Christopher J. Dodd","democrat",945347,1424726,0.66352898732809,-0.342239841204554,2008
+2004,"Connecticut","CT","US Senate","Jack C. Orchulli","republican",457749,1424726,0.321289146123535,-0.342239841204554,2008
+2004,"Illinois","IL","US Senate","Barack Obama","democrat",3597456,5141520,0.699687252018858,-0.429204982184257,2013
+2004,"Illinois","IL","US Senate","Alan Keyes","republican",1390690,5141520,0.270482269834601,-0.429204982184257,2013
+2004,"Indiana","IN","US Senate","Evan Bayh","democrat",1496976,2428233,0.61648779173992,-0.244236446831914,1995
+2004,"Indiana","IN","US Senate","Marvin Scott","republican",903913,2428233,0.372251344908005,-0.244236446831914,1995
+2004,"Kentucky","KY","US Senate","Daniel Mongiardo","democrat",850855,1724362,0.493431773606702,0.0131364527865958,2010
+2004,"Kentucky","KY","US Senate","Jim Bunning","republican",873507,1724362,0.506568226393298,0.0131364527865958,2010
+2004,"Maryland","MD","US Senate","Barbara A. Mikulski","democrat",1504691,2321931,0.648034330046845,-0.310791319810968,2010
+2004,"Maryland","MD","US Senate","E. J. Pipkin","republican",783055,2321931,0.337243010235877,-0.310791319810968,2010
+2004,"North Carolina","NC","US Senate","Erskine Bowles","democrat",1632527,3472082,0.470186764022278,0.0457716724432199,2016
+2004,"North Carolina","NC","US Senate","Richard Burr","republican",1791450,3472082,0.515958436465498,0.0457716724432199,2016
+2004,"Ohio","OH","US Senate","Eric D. Fingerhut","democrat",1961171,5425823,0.361451341114518,0.27704276383509,1981
+2004,"Ohio","OH","US Senate","George V. Voinovich","republican",3464356,5425823,0.638494104949609,0.27704276383509,1981
+2004,"South Carolina","SC","US Senate","Inez Tenenbaum","democrat",704384,1597221,0.441005972248048,0.0956555166755258,1997
+2004,"South Carolina","SC","US Senate","Jim DeMint","republican",857167,1597221,0.536661488923574,0.0956555166755258,1997
+2004,"Utah","UT","US Senate","R. Paul Van Dam","democrat",258955,911726,0.284027218703865,0.403284539433997,2018
+2004,"Utah","UT","US Senate","Robert F. Bennett","republican",626640,911726,0.687311758137862,0.403284539433997,2018
+2004,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",216972,307208,0.706270670034635,-0.460840863519179,2010
+2004,"Vermont","VT","US Senate","Jack McMullen","republican",75398,307208,0.245429806515455,-0.460840863519179,2010
+2006,"Connecticut","CT","US Senate","Ned Lamont","democrat",450844,1134777,0.39729744258123,-0.301068844363254,2008
+2006,"Connecticut","CT","US Senate","Alan Schlesinger","republican",109198,1134777,0.0962285982179759,-0.301068844363254,2008
+2006,"Delaware","DE","US Senate","Thomas R. Carper","democrat",170567,242972,0.702002699899577,-0.414998436033782,2010
+2006,"Delaware","DE","US Senate","Jan Ting","republican",69734,242972,0.287004263865795,-0.414998436033782,2010
+2006,"Indiana","IN","US Senate","Richard G. Lugar","republican",1171553,1341111,0.873569003609694,0.586564739743899,1995
+2006,"Maine","ME","US Senate","Jean M. Hay Bright","democrat",113131,545128,0.207531075270395,0.536507022203959,2004
+2006,"Maine","ME","US Senate","Olympia J. Snowe","republican",405596,545128,0.744038097474355,0.536507022203959,2004
+2006,"Maryland","MD","US Senate","Benjamin L. Cardin","democrat",965477,1781139,0.542055954083314,-0.100101676511491,2010
+2006,"Maryland","MD","US Senate","Michael S. Steele","republican",787182,1781139,0.441954277571823,-0.100101676511491,2010
+2006,"Mississippi","MS","US Senate","Erik R. Fleming","democrat",213000,610921,0.348653917609642,0.287105861477998,1997
+2006,"Mississippi","MS","US Senate","Trent Lott","republican",388399,610921,0.63575977908764,0.287105861477998,1997
+2006,"Nebraska","NE","US Senate","E. Benjamin Nelson","democrat",378388,592316,0.638827922933029,-0.277655845866058,1994
+2006,"Nebraska","NE","US Senate","Pete Ricketts","republican",213928,592316,0.361172077066971,-0.277655845866058,1994
+2006,"New Mexico","NM","US Senate","Jeff Bingaman","democrat",394365,558550,0.706051383045385,-0.412745501745591,2016
+2006,"New Mexico","NM","US Senate","Allen W. McCulloch","republican",163826,558550,0.293305881299794,-0.412745501745591,2016
+2006,"Ohio","OH","US Senate","Sherrod Brown","democrat",2257369,4019236,0.561641316906994,-0.123489140722267,1981
+2006,"Ohio","OH","US Senate","Mike DeWine","republican",1761037,4019236,0.438152176184728,-0.123489140722267,1981
+2006,"Utah","UT","US Senate","Pete Ashdown","democrat",177459,571252,0.31064924061535,0.312959954625979,2018
+2006,"Utah","UT","US Senate","Orrin G. Hatch","republican",356238,571252,0.62360919524133,0.312959954625979,2018
+2006,"Vermont","VT","US Senate","Bernard Sanders","democrat",171638,262419,0.654060872116729,-0.330441012274264,2010
+2006,"Vermont","VT","US Senate","Rich Tarrant","republican",84924,262419,0.323619859842466,-0.330441012274264,2010
+2006,"Virginia","VA","US Senate","James H. ""Jim"" Webb, Jr.","democrat",1175606,2370445,0.495943166789358,-0.00393554796673201,2004
+2006,"Virginia","VA","US Senate","George Allen","republican",1166277,2370445,0.492007618822626,-0.00393554796673201,2004
+2006,"West Virginia","WV","US Senate","Robert C. Byrd","democrat",159154,206562,0.770490216012626,-0.540980432025252,2013
+2006,"West Virginia","WV","US Senate","John R. Raese","republican",47408,206562,0.229509783987374,-0.540980432025252,2013
+2008,"Colorado","CO","US Senate","Mark Udall","democrat",1230994,2331621,0.527956301645936,-0.103035184534708,2019
+2008,"Colorado","CO","US Senate","Bob Schaffer","republican",990755,2331621,0.424921117111229,-0.103035184534708,2019
+2008,"Delaware","DE","US Senate","Joseph R. Biden Jr.","democrat",257539,398134,0.646865125811913,-0.293730251623825,2010
+2008,"Delaware","DE","US Senate","Christine O'Donnell","republican",140595,398134,0.353134874188087,-0.293730251623825,2010
+2008,"Illinois","IL","US Senate","Richard J. Durbin","democrat",3615844,5329884,0.678409511351467,-0.393108555458243,2013
+2008,"Illinois","IL","US Senate","Steve Sauerberg","republican",1520621,5329884,0.285300955893224,-0.393108555458243,2013
+2008,"Kentucky","KY","US Senate","Bruce Lunsford","democrat",847005,1800821,0.470343804298151,0.0593123914036986,2010
+2008,"Kentucky","KY","US Senate","Mitch McConnell","republican",953816,1800821,0.529656195701849,0.0593123914036986,2010
+2008,"Maine","ME","US Senate","Thomas H. Allen","democrat",279510,724430,0.385834380133346,0.227475394448049,2004
+2008,"Maine","ME","US Senate","Susan M. Collins","republican",444300,724430,0.613309774581395,0.227475394448049,2004
+2008,"Mississippi","MS","US Senate","Erik Fleming","democrat",480915,1247026,0.385649537379333,0.163947438188291,1997
+2008,"Mississippi","MS","US Senate","Roger F. Wicker","republican",683409,1243473,0.549596975567624,0.163947438188291,1997
+2008,"Mississippi","MS","US Senate","Thad Cochran","republican",766111,1247026,0.614350462620667,0.0647534870530432,1997
+2008,"Nebraska","NE","US Senate","Scott Kleeb","democrat",317456,792511,0.400569834361921,0.174632276397425,1994
+2008,"Nebraska","NE","US Senate","Mike Johanns","republican",455854,792511,0.575202110759346,0.174632276397425,1994
+2008,"New Mexico","NM","US Senate","Tom Udall","democrat",505128,823650,0.613279912584229,-0.226559825168458,2016
+2008,"New Mexico","NM","US Senate","Steve Pearce","republican",318522,823650,0.386720087415771,-0.226559825168458,2016
+2008,"North Carolina","NC","US Senate","Kay Hagan","democrat",2249311,4271970,0.526527808013633,-0.0846918400644199,2016
+2008,"North Carolina","NC","US Senate","Elizabeth Dole","republican",1887510,4271970,0.441835967949213,-0.0846918400644199,2016
+2008,"South Carolina","SC","US Senate","Bob Conley","democrat",790621,1871431,0.422468688399412,0.152777740670108,1997
+2008,"South Carolina","SC","US Senate","Lindsey Graham","republican",1076534,1871431,0.57524642906952,0.152777740670108,1997
+2008,"Virginia","VA","US Senate","Mark R. Warner","democrat",2369327,3643294,0.650325502141743,-0.313040067587189,2004
+2008,"Virginia","VA","US Senate","James S. ""Jim"" Gilmore III","republican",1228830,3643294,0.337285434554554,-0.313040067587189,2004
+2008,"West Virginia","WV","US Senate","John D. Rockefeller IV","democrat",447560,702308,0.637270257493863,-0.274709956315463,2013
+2008,"West Virginia","WV","US Senate","Jay Wolfe","republican",254629,702308,0.3625603011784,-0.274709956315463,2013
+2010,"Colorado","CO","US Senate","Michael F. Bennet","democrat",851590,1772286,0.480503711026324,-0.016283489233679,2019
+2010,"Colorado","CO","US Senate","Ken Buck","republican",822731,1772286,0.464220221792645,-0.016283489233679,2019
+2010,"Connecticut","CT","US Senate","Richard Blumenthal","democrat",605204,1153115,0.524842708663056,-0.0926733239963057,2008
+2010,"Connecticut","CT","US Senate","Linda E. McMahon","republican",498341,1153115,0.43216938466675,-0.0926733239963057,2008
+2010,"Delaware","DE","US Senate","Christopher A. Coons","democrat",174012,307402,0.566073089960378,-0.165773156973605,2010
+2010,"Delaware","DE","US Senate","Christine O'Donnell","republican",123053,307402,0.400299932986773,-0.165773156973605,2010
+2010,"Illinois","IL","US Senate","Alexander ""Alexi"" Giannoulias","democrat",1719478,3704473,0.464162648776223,0.0159860795314205,2013
+2010,"Illinois","IL","US Senate","Mark Steven Kirk","republican",1778698,3704473,0.480148728307643,0.0159860795314205,2013
+2010,"Indiana","IN","US Senate","Brad Ellsworth","democrat",697775,1744481,0.399990025686723,0.145797518001056,1995
+2010,"Indiana","IN","US Senate","Dan Coats","republican",952116,1744481,0.545787543687779,0.145797518001056,1995
+2010,"Kentucky","KY","US Senate","Jack Conway","democrat",600052,1356096,0.442484897824343,0.114780959460097,2010
+2010,"Kentucky","KY","US Senate","Rand Paul","republican",755706,1356096,0.55726585728444,0.114780959460097,2010
+2010,"Maryland","MD","US Senate","James T. Lynch, Jr.","democrat",84,1833858,4.58050732390403e-05,0.621884028098141,2010
+2010,"Maryland","MD","US Senate","Barbara Mikulski","democrat",1140531,1833858,0.62192983317138,-0.264396152810087,2010
+2010,"Maryland","MD","US Senate","Eric Wargotz","republican",655666,1833858,0.357533680361293,-0.264396152810087,2010
+2010,"North Carolina","NC","US Senate","Elaine Marshall","democrat",1145074,2660079,0.430466162847043,0.117655152346979,2016
+2010,"North Carolina","NC","US Senate","Richard Burr","republican",1458046,2660079,0.548121315194022,0.117655152346979,2016
+2010,"Ohio","OH","US Senate","Lee Fisher","democrat",1503297,3815098,0.394038894937954,0.174424090809725,1981
+2010,"Ohio","OH","US Senate","Rob Portman","republican",2168742,3815098,0.568462985747679,0.174424090809725,1981
+2010,"South Carolina","SC","US Senate","Alvin M. Greene","democrat",364598,1318794,0.276463192886834,0.338318948979143,1997
+2010,"South Carolina","SC","US Senate","Jim DeMint","republican",810771,1318794,0.614782141865978,0.338318948979143,1997
+2010,"Utah","UT","US Senate","Sam F. Granato","democrat",191732,585230,0.327618201390906,0.288213181142457,2018
+2010,"Utah","UT","US Senate","Mike Lee","republican",360403,585230,0.615831382533363,0.288213181142457,2018
+2010,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",151281,235178,0.643261699648777,-0.334138397299067,2010
+2010,"Vermont","VT","US Senate","Len Britton","republican",72699,235178,0.30912330234971,-0.334138397299067,2010
+2010,"West Virginia","WV","US Senate","Joe Manchin III","democrat",283358,529948,0.534690196019232,-0.100660819552107,2013
+2010,"West Virginia","WV","US Senate","John R. Raese","republican",230013,529948,0.434029376467125,-0.100660819552107,2013
+2012,"Connecticut","CT","US Senate","Christopher S. Murphy","democrat",792983,1511764,0.524541528968807,-0.124631886987652,2008
+2012,"Connecticut","CT","US Senate","Linda E. McMahon","republican",604569,1511764,0.399909641981156,-0.124631886987652,2008
+2012,"Delaware","DE","US Senate","Thomas R. Carper","democrat",265415,399606,0.66419172885292,-0.374656536688638,2010
+2012,"Delaware","DE","US Senate","Kevin Wade","republican",115700,399606,0.289535192164282,-0.374656536688638,2010
+2012,"Indiana","IN","US Senate","Joe Donnelly","democrat",1281181,2560102,0.50044138866342,-0.0576383284728499,1995
+2012,"Indiana","IN","US Senate","Richard E. Mourdock","republican",1133621,2560102,0.442803060190571,-0.0576383284728499,1995
+2012,"Maryland","MD","US Senate","Benjamin L. Cardin","democrat",1474028,2633234,0.559778584052917,-0.296493589251848,2010
+2012,"Maryland","MD","US Senate","Daniel John Bongino","republican",693291,2633234,0.26328499480107,-0.296493589251848,2010
+2012,"Mississippi","MS","US Senate","Albert N. Gore, Jr.","democrat",503467,1241568,0.405509001520658,0.166047288589912,1997
+2012,"Mississippi","MS","US Senate","Roger F. Wicker","republican",709626,1241568,0.57155629011057,0.166047288589912,1997
+2012,"Nebraska","NE","US Senate","Bob Kerrey","democrat",332979,788572,0.422255672278498,0.155488655443003,1994
+2012,"Nebraska","NE","US Senate","Deb Fischer","republican",455593,788572,0.577744327721502,0.155488655443003,1994
+2012,"New Mexico","NM","US Senate","Martin Heinrich","democrat",395717,775793,0.510080652957683,-0.0573052347726778,2016
+2012,"New Mexico","NM","US Senate","Heather A. Wilson","republican",351260,775793,0.452775418185006,-0.0573052347726778,2016
+2012,"Ohio","OH","US Senate","Sherrod Brown","democrat",2762690,5449018,0.507006950610183,-0.0600067755327657,1981
+2012,"Ohio","OH","US Senate","Josh Mandel","republican",2435712,5449018,0.447000175077418,-0.0600067755327657,1981
+2012,"Utah","UT","US Senate","Scott Howell","democrat",301873,1006901,0.299804052235523,0.353296898106169,2018
+2012,"Utah","UT","US Senate","Orrin G. Hatch","republican",657608,1006901,0.653100950341692,0.353296898106169,2018
+2012,"Vermont","VT","US Senate","Bernard Sanders","democrat",207848,292762,0.709955527015118,-0.46095463209023,2010
+2012,"Vermont","VT","US Senate","John MacGovern","republican",72898,292762,0.249000894924888,-0.46095463209023,2010
+2012,"Virginia","VA","US Senate","Timothy M. Kaine","democrat",2010067,3802196,0.52865949046288,-0.0590514008220512,2004
+2012,"Virginia","VA","US Senate","George F. Allen","republican",1785542,3802196,0.469608089640829,-0.0590514008220512,2004
+2012,"West Virginia","WV","US Senate","Joe Manchin III","democrat",399898,660202,0.605720673369666,-0.241003511046619,2013
+2012,"West Virginia","WV","US Senate","John R. Raese","republican",240787,660202,0.364717162323047,-0.241003511046619,2013
+2014,"Colorado","CO","US Senate","Mark Udall","democrat",944203,2041058,0.462604688352805,0.01944481734473,2019
+2014,"Colorado","CO","US Senate","Cory Gardner","republican",983891,2041058,0.482049505697535,0.01944481734473,2019
+2014,"Delaware","DE","US Senate","Christopher A. Coons","democrat",130655,234038,0.558264042591374,-0.136012100599048,2010
+2014,"Delaware","DE","US Senate","Kevin Wade","republican",98823,234038,0.422251941992326,-0.136012100599048,2010
+2014,"Illinois","IL","US Senate","Richard J. Durbin","democrat",1929637,3603519,0.535486839392272,-0.108536960676494,2013
+2014,"Illinois","IL","US Senate","James D. ""Jim"" Oberweis","republican",1538522,3603519,0.426949878715778,-0.108536960676494,2013
+2014,"Kentucky","KY","US Senate","Alison Lundergan Grimes","democrat",584698,1435868,0.407208740636326,0.154672295782063,2010
+2014,"Kentucky","KY","US Senate","Mich McConnell","republican",806787,1435868,0.561881036418389,0.154672295782063,2010
+2014,"Maine","ME","US Senate","Shenna Bellows","democrat",190254,616996,0.308355321590416,0.361835408981582,2004
+2014,"Maine","ME","US Senate","Susan M. Collins","republican",413505,616996,0.670190730571997,0.361835408981582,2004
+2014,"Mississippi","MS","US Senate","Travis W. Childers","democrat",239439,631858,0.378944319768049,0.220052606756581,1997
+2014,"Mississippi","MS","US Senate","Thad Cochran","republican",378481,631858,0.598996926524631,0.220052606756581,1997
+2014,"Nebraska","NE","US Senate","Dave Domina","democrat",170127,540337,0.314853508088471,0.328515352455967,1994
+2014,"Nebraska","NE","US Senate","Ben Sasse","republican",347636,540337,0.643368860544438,0.328515352455967,1994
+2014,"New Mexico","NM","US Senate","Tom Udall","democrat",286409,515506,0.55558810178737,-0.11117620357474,2016
+2014,"New Mexico","NM","US Senate","Allen E. Weh","republican",229097,515506,0.44441189821263,-0.11117620357474,2016
+2014,"North Carolina","NC","US Senate","Kay R. Hagan","democrat",1377651,2915281,0.472561993166353,0.0156444610313722,2016
+2014,"North Carolina","NC","US Senate","Thom Tillis","republican",1423259,2915281,0.488206454197726,0.0156444610313722,2016
+2014,"South Carolina","SC","US Senate","Brad Hutto","democrat",456726,1240075,0.368305142834103,0.00263083525113172,1997
+2014,"South Carolina","SC","US Senate","Joyce Dickerson","democrat",459583,1238982,0.370935978085234,0.17172555448336,1997
+2014,"South Carolina","SC","US Senate","Lindsey Graham","republican",672941,1240075,0.542661532568595,0.17172555448336,1997
+2014,"South Carolina","SC","US Senate","Tim Scott","republican",757215,1238982,0.611158999888618,0.0684974673200236,1997
+2014,"Virginia","VA","US Senate","Mark R. Warner","democrat",1073667,2184473,0.491499322719942,-0.00811500073473098,2004
+2014,"Virginia","VA","US Senate","Ed. W. Gillespie","republican",1055940,2184473,0.483384321985211,-0.00811500073473098,2004
+2014,"West Virginia","WV","US Senate","Natalie Tennant","democrat",156360,453689,0.344641373275526,0.276533043560677,2013
+2014,"West Virginia","WV","US Senate","Shelley Moore Capito","republican",281820,453689,0.621174416836203,0.276533043560677,2013
+2016,"Colorado","CO","US Senate","Michael F. Bennet","democrat",1370710,2743023,0.499707804127053,-0.056649907784222,2019
+2016,"Colorado","CO","US Senate","Darryl Glenn","republican",1215318,2743023,0.44305789634283,-0.056649907784222,2019
+2016,"Connecticut","CT","US Senate","Richard Blumenthal","democrat",920766,1596276,0.576821301579426,-0.230627410297467,2008
+2016,"Connecticut","CT","US Senate","Dan Carter","republican",552621,1596276,0.346193891281959,-0.230627410297467,2008
+2016,"Illinois","IL","US Senate","Tammy Duckworth","democrat",3012940,5491878,0.548617431049998,-0.150813255502034,2013
+2016,"Illinois","IL","US Senate","Mark Kirk","republican",2184692,5491878,0.397804175547964,-0.150813255502034,2013
+2016,"Indiana","IN","US Senate","Evan Bayh","democrat",1158947,2732546,0.424127169313893,0.0969952564385009,1995
+2016,"Indiana","IN","US Senate","Todd C. Young","republican",1423991,2732546,0.521122425752394,0.0969952564385009,1995
+2016,"Kentucky","KY","US Senate","Jim Gray","democrat",813246,1903465,0.427245050473741,0.145487834028995,2010
+2016,"Kentucky","KY","US Senate","Rand Paul","republican",1090177,1903465,0.572732884502736,0.145487834028995,2010
+2016,"Maryland","MD","US Senate","Chris Van Hollen","democrat",1659907,2726170,0.608878756643936,-0.252130278009075,2010
+2016,"Maryland","MD","US Senate","Kathy Szeliga","republican",972557,2726170,0.356748478634861,-0.252130278009075,2010
+2016,"North Carolina","NC","US Senate","Deborah K. Ross","democrat",2128165,4691133,0.45365693106548,0.0569608663834515,2016
+2016,"North Carolina","NC","US Senate","Richard Burr","republican",2395376,4691133,0.510617797448932,0.0569608663834515,2016
+2016,"Ohio","OH","US Senate","Ted Strickland","democrat",1996908,5374164,0.371575560403441,0.20871320637033,1981
+2016,"Ohio","OH","US Senate","Rob Portman","republican",3118567,5374164,0.580288766773772,0.20871320637033,1981
+2016,"South Carolina","SC","US Senate","Thomas Dixon","democrat",704540,2049893,0.343695988034497,0.26199855309521,1997
+2016,"South Carolina","SC","US Senate","Tim Scott","republican",1241609,2049893,0.605694541129708,0.26199855309521,1997
+2016,"Utah","UT","US Senate","Misty K. Snow","democrat",301858,1115583,0.270583183859919,0.410872162806353,2018
+2016,"Utah","UT","US Senate","Mike Lee","republican",760220,1115583,0.681455346666272,0.410872162806353,2018
+2016,"Vermont","VT","US Senate","Patrick J. Leahy","democrat",192243,320467,0.599883919405118,-0.276490247045718,2010
+2016,"Vermont","VT","US Senate","Scott Milne","republican",103637,320467,0.3233936723594,-0.276490247045718,2010
+2018,"Connecticut","CT","US Senate","Christopher S Murphy","democrat",787685,1386840,0.567971070923827,-0.174474344553085,2008
+2018,"Connecticut","CT","US Senate","Matthew Corey","republican",545717,1386840,0.393496726370742,-0.174474344553085,2008
+2018,"Delaware","DE","US Senate","Thomas R Carper","democrat",217385,362592,0.599530601888624,-0.221345203424234,2010
+2018,"Delaware","DE","US Senate","Robert B Arlett","republican",137127,362592,0.37818539846439,-0.221345203424234,2010
+2018,"Indiana","IN","US Senate","Joe Donnelly","democrat",1023553,2282565,0.448422279321728,0.0589017180233641,1995
+2018,"Indiana","IN","US Senate","Mike Braun","republican",1158000,2282565,0.507323997345092,0.0589017180233641,1995
+2018,"Maryland","MD","US Senate","Ben Cardin","democrat",1491614,2299889,0.648559126114347,-0.345493630344769,2010
+2018,"Maryland","MD","US Senate","Tony Campbell","republican",697017,2299889,0.303065495769578,-0.345493630344769,2010
+2018,"Mississippi","MS","US Senate","David Baria","democrat",369567,1843803,0.200437356919367,0.0277968958722814,1997
+2018,"Mississippi","MS","US Senate","Mike Espy","democrat",420819,1843803,0.228234252791649,0.0687709044838304,1997
+2018,"Mississippi","MS","US Senate","Roger F. Wicker","republican",547619,1843803,0.297005157275479,0.0687709044838304,1997
+2018,"Mississippi","MS","US Senate","Cindy Hyde-Smith","republican",486769,1843803,0.264002716125313,-0.0330024411501663,1997
+2018,"Nebraska","NE","US Senate","Jane Raybould","democrat",269917,698883,0.386211998288698,0.190638490276627,1994
+2018,"Nebraska","NE","US Senate","Deb Fischer","republican",403151,698883,0.576850488565325,0.190638490276627,1994
+2018,"New Mexico","NM","US Senate","Martin T Heinrich","democrat",376998,697012,0.540877345009842,-0.235555485414885,2016
+2018,"New Mexico","NM","US Senate","Mick Rich","republican",212813,697012,0.305321859594957,-0.235555485414885,2016
+2018,"Ohio","OH","US Senate","Sherrod Brown","democrat",2355923,4410898,0.534114141836878,-0.068457715413052,1981
+2018,"Ohio","OH","US Senate","Jim Renacci","republican",2053963,4410898,0.465656426423826,-0.068457715413052,1981
+2018,"Utah","UT","US Senate","Jenny Wilson","democrat",328541,1062845,0.309114687466187,0.316766791018446,2018
+2018,"Utah","UT","US Senate","Mitt Romney","republican",665215,1062845,0.625881478484633,0.316766791018446,2018
+2018,"Vermont","VT","US Senate","Lawrence Zupan","republican",74663,272624,0.273868038030401,-0.352013440454232,2010
+2018,"Virginia","VA","US Senate","Timothy M. Kaine","democrat",1910370,3351373,0.570026075879945,-0.159951458700658,2004
+2018,"Virginia","VA","US Senate","Corey A. Stewart","republican",1374313,3351373,0.410074617179287,-0.159951458700658,2004
+2018,"West Virginia","WV","US Senate","Joe Manchin","democrat",288808,582911,0.49545814026498,-0.032485233594837,2013
+2018,"West Virginia","WV","US Senate","Patrick Morrisey","republican",269872,582911,0.462972906670143,-0.032485233594837,2013
