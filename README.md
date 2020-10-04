@@ -1,9 +1,9 @@
 # prop18_and_pol_lean
 
 # README
-### path(shorthand name of project)
+### Prop 18 and Political Lean
 
-*This is the main directory for data and support files related to the Prop 18 and Political Lean.*
+*This is the main directory for data and support files related to the Prop 18 and Political Lean project.*
 
 ### last updated: October 4, 2020
 ### last update by: Anson Justi 
