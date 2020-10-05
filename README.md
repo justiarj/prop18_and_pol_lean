@@ -28,10 +28,7 @@ We felt that any law that may increase voter participation among a specific demo
 
 * Files:
 	*  Data Setup.R - This is the file we used to clean our data. It uses "pres_dat_76_16.xlsx" and "sen_dat_76_18.xlsx" to produce "prop18_lean_omni.csv". 
-	The following changes were made in excel to "sen_dat_76_18.xlsx": 
-	We removed all CT senate elections, the 2012 and 2018 ME senate elections, and the 1976 VA senate election. All of these included major vote getters from 
-	three or more different parties. 
-	Bernie Sanders was also reclassified from an independent to democratic candidate. 
+	The following change was made in excel to "sen_dat_76_18.xlsx": Bernie Sanders was also reclassified from an independent to democratic candidate. 
 	
 	* app.R - This is the file we used to produce the data visualization in Rshiny. It takes "prop18_lean_omni.csv" as its input. 
 
