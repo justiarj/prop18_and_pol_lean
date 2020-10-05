@@ -5,6 +5,8 @@
 
 *This is the main directory for data and support files related to the Prop 18 and Political Lean project.*
 
+View our visualization: https://grahamporter.shinyapps.io/Data_Challenge_2020_Prop_18/?_ga=2.171362080.1608641742.1601746586-1706688654.1601746586
+
 ### last updated: October 4, 2020
 ### last update by: Anson Justi 
 
